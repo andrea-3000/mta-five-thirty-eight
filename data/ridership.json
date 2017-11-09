@@ -1,6 +1,6 @@
 {
   "data": [{
-      "Station (alphabetical by borough)": "149 St-Grand Concourse",
+      "Station": "149 St-Grand Concourse",
       "2011": 4169699,
       "2012": 4104847,
       "2013": 4427399,
@@ -11,7 +11,7 @@
       "Borough": "The Bronx"
     },
     {
-      "Station (alphabetical by borough)": "161 St-Yankee Stadium",
+      "Station": "161 St-Yankee Stadium",
       "2011": 8605893,
       "2012": 8831015,
       "2013": 8766012,
@@ -22,7 +22,7 @@
       "Borough": "The Bronx"
     },
     {
-      "Station (alphabetical by borough)": "167 St",
+      "Station": "167 St",
       "2011": 2978748,
       "2012": 3039634,
       "2013": 3081534,
@@ -33,7 +33,7 @@
       "Borough": "The Bronx"
     },
     {
-      "Station (alphabetical by borough)": "167 St",
+      "Station": "167 St",
       "2011": 2952368,
       "2012": 2972535,
       "2013": 3091289,
@@ -44,7 +44,7 @@
       "Borough": "The Bronx"
     },
     {
-      "Station (alphabetical by borough)": "170 St",
+      "Station": "170 St",
       "2011": 2954573,
       "2012": 2980786,
       "2013": 2961575,
@@ -55,7 +55,7 @@
       "Borough": "The Bronx"
     },
     {
-      "Station (alphabetical by borough)": "170 St",
+      "Station": "170 St",
       "2011": 1988409,
       "2012": 2032837,
       "2013": 2174082,
@@ -66,7 +66,7 @@
       "Borough": "The Bronx"
     },
     {
-      "Station (alphabetical by borough)": "174 St",
+      "Station": "174 St",
       "2011": 2161875,
       "2012": 2152009,
       "2013": 2301756,
@@ -77,7 +77,7 @@
       "Borough": "The Bronx"
     },
     {
-      "Station (alphabetical by borough)": "174-175 Sts",
+      "Station": "174-175 Sts",
       "2011": 1492092,
       "2012": 1496869,
       "2013": 1598189,
@@ -88,7 +88,7 @@
       "Borough": "The Bronx"
     },
     {
-      "Station (alphabetical by borough)": "176 St",
+      "Station": "176 St",
       "2011": 1720629,
       "2012": 1764100,
       "2013": 1837995,
@@ -99,7 +99,7 @@
       "Borough": "The Bronx"
     },
     {
-      "Station (alphabetical by borough)": "182-183 Sts",
+      "Station": "182-183 Sts",
       "2011": 1489026,
       "2012": 1447028,
       "2013": 1520856,
@@ -110,7 +110,7 @@
       "Borough": "The Bronx"
     },
     {
-      "Station (alphabetical by borough)": "183 St",
+      "Station": "183 St",
       "2011": 1978737,
       "2012": 1997038,
       "2013": 2002633,
@@ -121,7 +121,7 @@
       "Borough": "The Bronx"
     },
     {
-      "Station (alphabetical by borough)": "219 St",
+      "Station": "219 St",
       "2011": 1032343,
       "2012": 1063058,
       "2013": 1099491,
@@ -132,7 +132,7 @@
       "Borough": "The Bronx"
     },
     {
-      "Station (alphabetical by borough)": "225 St",
+      "Station": "225 St",
       "2011": 1336790,
       "2012": 1382626,
       "2013": 1400377,
@@ -143,7 +143,7 @@
       "Borough": "The Bronx"
     },
     {
-      "Station (alphabetical by borough)": "231 St",
+      "Station": "231 St",
       "2011": 2731068,
       "2012": 2829503,
       "2013": 2757855,
@@ -154,7 +154,7 @@
       "Borough": "The Bronx"
     },
     {
-      "Station (alphabetical by borough)": "233 St",
+      "Station": "233 St",
       "2011": 1655372,
       "2012": 1674406,
       "2013": 1719181,
@@ -165,7 +165,7 @@
       "Borough": "The Bronx"
     },
     {
-      "Station (alphabetical by borough)": "238 St",
+      "Station": "238 St",
       "2011": 902601,
       "2012": 1106353,
       "2013": 1092492,
@@ -176,7 +176,7 @@
       "Borough": "The Bronx"
     },
     {
-      "Station (alphabetical by borough)": "3 Av-138 St",
+      "Station": "3 Av-138 St",
       "2011": 2280268,
       "2012": 2304717,
       "2013": 2443326,
@@ -187,7 +187,7 @@
       "Borough": "The Bronx"
     },
     {
-      "Station (alphabetical by borough)": "3 Av-149 St",
+      "Station": "3 Av-149 St",
       "2011": 7232070,
       "2012": 7525904,
       "2013": 7310115,
@@ -198,7 +198,7 @@
       "Borough": "The Bronx"
     },
     {
-      "Station (alphabetical by borough)": "Allerton Av",
+      "Station": "Allerton Av",
       "2011": 1602390,
       "2012": 1689145,
       "2013": 1747352,
@@ -209,7 +209,7 @@
       "Borough": "The Bronx"
     },
     {
-      "Station (alphabetical by borough)": "Baychester Av",
+      "Station": "Baychester Av",
       "2011": 1106959,
       "2012": 1161075,
       "2013": 1234050,
@@ -220,7 +220,7 @@
       "Borough": "The Bronx"
     },
     {
-      "Station (alphabetical by borough)": "Bedford Park Blvd",
+      "Station": "Bedford Park Blvd",
       "2011": 1914096,
       "2012": 1929623,
       "2013": 2040887,
@@ -231,7 +231,7 @@
       "Borough": "The Bronx"
     },
     {
-      "Station (alphabetical by borough)": "Bedford Park Blvd-Lehman College",
+      "Station": "Bedford Park Blvd-Lehman College",
       "2011": 1835965,
       "2012": 1796392,
       "2013": 1853706,
@@ -242,7 +242,7 @@
       "Borough": "The Bronx"
     },
     {
-      "Station (alphabetical by borough)": "Bronx Park East",
+      "Station": "Bronx Park East",
       "2011": 826356,
       "2012": 860554,
       "2013": 914831,
@@ -253,7 +253,7 @@
       "Borough": "The Bronx"
     },
     {
-      "Station (alphabetical by borough)": "Brook Av",
+      "Station": "Brook Av",
       "2011": 1950893,
       "2012": 1901192,
       "2013": 1970010,
@@ -264,7 +264,7 @@
       "Borough": "The Bronx"
     },
     {
-      "Station (alphabetical by borough)": "Buhre Av",
+      "Station": "Buhre Av",
       "2011": 991171,
       "2012": 1008640,
       "2013": 1111659,
@@ -275,7 +275,7 @@
       "Borough": "The Bronx"
     },
     {
-      "Station (alphabetical by borough)": "Burke Av",
+      "Station": "Burke Av",
       "2011": 1036169,
       "2012": 1086792,
       "2013": 1133298,
@@ -286,7 +286,7 @@
       "Borough": "The Bronx"
     },
     {
-      "Station (alphabetical by borough)": "Burnside Av",
+      "Station": "Burnside Av",
       "2011": 3528312,
       "2012": 3508076,
       "2013": 3560191,
@@ -297,7 +297,7 @@
       "Borough": "The Bronx"
     },
     {
-      "Station (alphabetical by borough)": "Castle Hill Av",
+      "Station": "Castle Hill Av",
       "2011": 2341370,
       "2012": 2327404,
       "2013": 1756879,
@@ -308,7 +308,7 @@
       "Borough": "The Bronx"
     },
     {
-      "Station (alphabetical by borough)": "Cypress Av",
+      "Station": "Cypress Av",
       "2011": 1142381,
       "2012": 1097947,
       "2013": 1186696,
@@ -319,7 +319,7 @@
       "Borough": "The Bronx"
     },
     {
-      "Station (alphabetical by borough)": "East 143 St-St Mary's St",
+      "Station": "East 143 St-St Mary's St",
       "2011": 280840,
       "2012": 285464,
       "2013": 273895,
@@ -330,7 +330,7 @@
       "Borough": "The Bronx"
     },
     {
-      "Station (alphabetical by borough)": "East 149 St",
+      "Station": "East 149 St",
       "2011": 1383455,
       "2012": 1403118,
       "2013": 1457795,
@@ -341,7 +341,7 @@
       "Borough": "The Bronx"
     },
     {
-      "Station (alphabetical by borough)": "East 180 St",
+      "Station": "East 180 St",
       "2011": 2164608,
       "2012": 2098429,
       "2013": 2152570,
@@ -352,7 +352,7 @@
       "Borough": "The Bronx"
     },
     {
-      "Station (alphabetical by borough)": "Eastchester-Dyre Av",
+      "Station": "Eastchester-Dyre Av",
       "2011": 1309695,
       "2012": 1366077,
       "2013": 1441375,
@@ -363,7 +363,7 @@
       "Borough": "The Bronx"
     },
     {
-      "Station (alphabetical by borough)": "Elder Av",
+      "Station": "Elder Av",
       "2011": 721362,
       "2012": 1936349,
       "2013": 2041453,
@@ -374,7 +374,7 @@
       "Borough": "The Bronx"
     },
     {
-      "Station (alphabetical by borough)": "Fordham Rd",
+      "Station": "Fordham Rd",
       "2011": 3966339,
       "2012": 3947625,
       "2013": 3946955,
@@ -385,7 +385,7 @@
       "Borough": "The Bronx"
     },
     {
-      "Station (alphabetical by borough)": "Fordham Rd",
+      "Station": "Fordham Rd",
       "2011": 3680312,
       "2012": 3655007,
       "2013": 3876601,
@@ -396,7 +396,7 @@
       "Borough": "The Bronx"
     },
     {
-      "Station (alphabetical by borough)": "Freeman St",
+      "Station": "Freeman St",
       "2011": 1348014,
       "2012": 1393186,
       "2013": 1486965,
@@ -407,7 +407,7 @@
       "Borough": "The Bronx"
     },
     {
-      "Station (alphabetical by borough)": "Gun Hill Rd",
+      "Station": "Gun Hill Rd",
       "2011": 2176939,
       "2012": 2235325,
       "2013": 2304780,
@@ -418,7 +418,7 @@
       "Borough": "The Bronx"
     },
     {
-      "Station (alphabetical by borough)": "Gun Hill Rd",
+      "Station": "Gun Hill Rd",
       "2011": 1683011,
       "2012": 1757377,
       "2013": 1792707,
@@ -429,7 +429,7 @@
       "Borough": "The Bronx"
     },
     {
-      "Station (alphabetical by borough)": "Hunts Point Av",
+      "Station": "Hunts Point Av",
       "2011": 3191706,
       "2012": 3204779,
       "2013": 3158343,
@@ -440,7 +440,7 @@
       "Borough": "The Bronx"
     },
     {
-      "Station (alphabetical by borough)": "Intervale Av",
+      "Station": "Intervale Av",
       "2011": 902216,
       "2012": 937280,
       "2013": 1048501,
@@ -451,7 +451,7 @@
       "Borough": "The Bronx"
     },
     {
-      "Station (alphabetical by borough)": "Jackson Av",
+      "Station": "Jackson Av",
       "2011": 1573302,
       "2012": 1520612,
       "2013": 1686061,
@@ -462,7 +462,7 @@
       "Borough": "The Bronx"
     },
     {
-      "Station (alphabetical by borough)": "Kingsbridge Rd",
+      "Station": "Kingsbridge Rd",
       "2011": 3169615,
       "2012": 3173688,
       "2013": 3198725,
@@ -473,7 +473,7 @@
       "Borough": "The Bronx"
     },
     {
-      "Station (alphabetical by borough)": "Kingsbridge Rd",
+      "Station": "Kingsbridge Rd",
       "2011": 2275576,
       "2012": 2255556,
       "2013": 2390749,
@@ -484,7 +484,7 @@
       "Borough": "The Bronx"
     },
     {
-      "Station (alphabetical by borough)": "Longwood Av",
+      "Station": "Longwood Av",
       "2011": 1067960,
       "2012": 1065764,
       "2013": 1087990,
@@ -495,7 +495,7 @@
       "Borough": "The Bronx"
     },
     {
-      "Station (alphabetical by borough)": "Middletown Rd",
+      "Station": "Middletown Rd",
       "2011": 559746,
       "2012": 566771,
       "2013": 441950,
@@ -506,7 +506,7 @@
       "Borough": "The Bronx"
     },
     {
-      "Station (alphabetical by borough)": "Morris Park",
+      "Station": "Morris Park",
       "2011": 554320,
       "2012": 589170,
       "2013": 631930,
@@ -517,7 +517,7 @@
       "Borough": "The Bronx"
     },
     {
-      "Station (alphabetical by borough)": "Morrison Av-Soundview",
+      "Station": "Morrison Av-Soundview",
       "2011": 3028145,
       "2012": 2057570,
       "2013": 2096942,
@@ -528,7 +528,7 @@
       "Borough": "The Bronx"
     },
     {
-      "Station (alphabetical by borough)": "Mosholu Pkwy",
+      "Station": "Mosholu Pkwy",
       "2011": 2961522,
       "2012": 2906150,
       "2013": 2917501,
@@ -539,7 +539,7 @@
       "Borough": "The Bronx"
     },
     {
-      "Station (alphabetical by borough)": "Mt Eden Av",
+      "Station": "Mt Eden Av",
       "2011": 1814951,
       "2012": 1818870,
       "2013": 1848483,
@@ -550,7 +550,7 @@
       "Borough": "The Bronx"
     },
     {
-      "Station (alphabetical by borough)": "Nereid Av",
+      "Station": "Nereid Av",
       "2011": 1025004,
       "2012": 1086227,
       "2013": 1195804,
@@ -561,7 +561,7 @@
       "Borough": "The Bronx"
     },
     {
-      "Station (alphabetical by borough)": "Norwood-205 St",
+      "Station": "Norwood-205 St",
       "2011": 2472094,
       "2012": 2463462,
       "2013": 2569581,
@@ -572,7 +572,7 @@
       "Borough": "The Bronx"
     },
     {
-      "Station (alphabetical by borough)": "Parkchester",
+      "Station": "Parkchester",
       "2011": 4851182,
       "2012": 4687402,
       "2013": 5215409,
@@ -583,7 +583,7 @@
       "Borough": "The Bronx"
     },
     {
-      "Station (alphabetical by borough)": "Pelham Bay Park",
+      "Station": "Pelham Bay Park",
       "2011": 2062525,
       "2012": 2030215,
       "2013": 2096130,
@@ -594,7 +594,7 @@
       "Borough": "The Bronx"
     },
     {
-      "Station (alphabetical by borough)": "Pelham Pkwy",
+      "Station": "Pelham Pkwy",
       "2011": 2701431,
       "2012": 2882651,
       "2013": 3028494,
@@ -605,7 +605,7 @@
       "Borough": "The Bronx"
     },
     {
-      "Station (alphabetical by borough)": "Pelham Pkwy",
+      "Station": "Pelham Pkwy",
       "2011": 897433,
       "2012": 923188,
       "2013": 919689,
@@ -616,7 +616,7 @@
       "Borough": "The Bronx"
     },
     {
-      "Station (alphabetical by borough)": "Prospect Av",
+      "Station": "Prospect Av",
       "2011": 2209945,
       "2012": 2125066,
       "2013": 2311798,
@@ -627,7 +627,7 @@
       "Borough": "The Bronx"
     },
     {
-      "Station (alphabetical by borough)": "Simpson St",
+      "Station": "Simpson St",
       "2011": 2901513,
       "2012": 2810789,
       "2013": 3027856,
@@ -638,7 +638,7 @@
       "Borough": "The Bronx"
     },
     {
-      "Station (alphabetical by borough)": "St Lawrence Av",
+      "Station": "St Lawrence Av",
       "2011": 463809,
       "2012": 1212796,
       "2013": 1280074,
@@ -649,7 +649,7 @@
       "Borough": "The Bronx"
     },
     {
-      "Station (alphabetical by borough)": "Tremont Av",
+      "Station": "Tremont Av",
       "2011": 2772602,
       "2012": 2791329,
       "2013": 2952385,
@@ -660,7 +660,7 @@
       "Borough": "The Bronx"
     },
     {
-      "Station (alphabetical by borough)": "Van Cortlandt Park-242 St",
+      "Station": "Van Cortlandt Park-242 St",
       "2011": 1937333,
       "2012": 2041551,
       "2013": 2148667,
@@ -671,7 +671,7 @@
       "Borough": "The Bronx"
     },
     {
-      "Station (alphabetical by borough)": "Wakefield-241 St",
+      "Station": "Wakefield-241 St",
       "2011": 1560698,
       "2012": 1603076,
       "2013": 1528793,
@@ -682,7 +682,7 @@
       "Borough": "The Bronx"
     },
     {
-      "Station (alphabetical by borough)": "West Farms Sq-East Tremont Av",
+      "Station": "West Farms Sq-East Tremont Av",
       "2011": 2391352,
       "2012": 2428999,
       "2013": 2514240,
@@ -693,7 +693,7 @@
       "Borough": "The Bronx"
     },
     {
-      "Station (alphabetical by borough)": "Westchester Sq-East Tremont Av",
+      "Station": "Westchester Sq-East Tremont Av",
       "2011": 1993343,
       "2012": 1964525,
       "2013": 2043649,
@@ -704,7 +704,7 @@
       "Borough": "The Bronx"
     },
     {
-      "Station (alphabetical by borough)": "Whitlock Av",
+      "Station": "Whitlock Av",
       "2011": 726747,
       "2012": 524988,
       "2013": 534489,
@@ -715,7 +715,7 @@
       "Borough": "The Bronx"
     },
     {
-      "Station (alphabetical by borough)": "Woodlawn",
+      "Station": "Woodlawn",
       "2011": 2494092,
       "2012": 2417765,
       "2013": 2423278,
@@ -726,7 +726,7 @@
       "Borough": "The Bronx"
     },
     {
-      "Station (alphabetical by borough)": "Zerega Av",
+      "Station": "Zerega Av",
       "2011": 825755,
       "2012": 849815,
       "2013": 985388,
@@ -737,7 +737,7 @@
       "Borough": "The Bronx"
     },
     {
-      "Station (alphabetical by borough)": "15 St-Prospect Park",
+      "Station": "15 St-Prospect Park",
       "2011": 1449241,
       "2012": 1852346,
       "2013": 2005424,
@@ -748,7 +748,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "18 Av",
+      "Station": "18 Av",
       "2011": 1654305,
       "2012": 1661770,
       "2013": 1954729,
@@ -759,7 +759,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "18 Av",
+      "Station": "18 Av",
       "2011": 1306839,
       "2012": 1294568,
       "2013": 1313344,
@@ -770,7 +770,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "18 Av",
+      "Station": "18 Av",
       "2011": 1828462,
       "2012": 1819255,
       "2013": 1641928,
@@ -781,7 +781,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "20 Av",
+      "Station": "20 Av",
       "2011": 1370001,
       "2012": 1377648,
       "2013": 1547029,
@@ -792,7 +792,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "20 Av",
+      "Station": "20 Av",
       "2011": 1220065,
       "2012": 1245145,
       "2013": 1286961,
@@ -803,7 +803,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "25 Av",
+      "Station": "25 Av",
       "2011": 1266146,
       "2012": 1206526,
       "2013": 1421090,
@@ -814,7 +814,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "25 St",
+      "Station": "25 St",
       "2011": 1243737,
       "2012": 1198226,
       "2013": 1218842,
@@ -825,7 +825,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "36 St",
+      "Station": "36 St",
       "2011": 3659139,
       "2012": 3772420,
       "2013": 3826400,
@@ -836,7 +836,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "4 Av/9 St",
+      "Station": "4 Av/9 St",
       "2011": 4020665,
       "2012": 4300400,
       "2013": 4210873,
@@ -847,7 +847,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "45 St",
+      "Station": "45 St",
       "2011": 2328141,
       "2012": 2255877,
       "2013": 2251217,
@@ -858,7 +858,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "50 St",
+      "Station": "50 St",
       "2011": 897609,
       "2012": 941157,
       "2013": 1021409,
@@ -869,7 +869,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "53 St",
+      "Station": "53 St",
       "2011": 2401105,
       "2012": 2357449,
       "2013": 2387370,
@@ -880,7 +880,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "55 St",
+      "Station": "55 St",
       "2011": 586282,
       "2012": 546080,
       "2013": 601931,
@@ -891,7 +891,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "59 St",
+      "Station": "59 St",
       "2011": 3819141,
       "2012": 3848745,
       "2013": 3968334,
@@ -902,7 +902,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "7 Av",
+      "Station": "7 Av",
       "2011": 2953368,
       "2012": 2824839,
       "2013": 2905400,
@@ -913,7 +913,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "7 Av",
+      "Station": "7 Av",
       "2011": 3934545,
       "2012": 3699471,
       "2013": 3904986,
@@ -924,7 +924,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "71 St",
+      "Station": "71 St",
       "2011": 1115321,
       "2012": 1191257,
       "2013": 1446020,
@@ -935,7 +935,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "77 St",
+      "Station": "77 St",
       "2011": 1579635,
       "2012": 1600644,
       "2013": 1645262,
@@ -946,7 +946,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "79 St",
+      "Station": "79 St",
       "2011": 1633616,
       "2012": 1651785,
       "2013": 1949861,
@@ -957,7 +957,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "8 Av",
+      "Station": "8 Av",
       "2011": 3484429,
       "2012": 3559576,
       "2013": 3677764,
@@ -968,7 +968,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "86 St",
+      "Station": "86 St",
       "2011": 796379,
       "2012": 811332,
       "2013": 801109,
@@ -979,7 +979,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "86 St",
+      "Station": "86 St",
       "2011": 3445470,
       "2012": 3515085,
       "2013": 3662602,
@@ -990,7 +990,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "9 Av",
+      "Station": "9 Av",
       "2011": 1681423,
       "2012": 1668767,
       "2013": 1896942,
@@ -1001,7 +1001,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Alabama Av",
+      "Station": "Alabama Av",
       "2011": 759581,
       "2012": 772447,
       "2013": 770075,
@@ -1012,7 +1012,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Atlantic Av-Barclays Ctr",
+      "Station": "Atlantic Av-Barclays Ctr",
       "2011": 10726332,
       "2012": 11526090,
       "2013": 13122876,
@@ -1023,7 +1023,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Atlantic Av",
+      "Station": "Atlantic Av",
       "2011": 427914,
       "2012": 444960,
       "2013": 482835,
@@ -1034,7 +1034,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Avenue H",
+      "Station": "Avenue H",
       "2011": 521818,
       "2012": 823237,
       "2013": 875106,
@@ -1045,7 +1045,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Avenue I",
+      "Station": "Avenue I",
       "2011": 696851,
       "2012": 684241,
       "2013": 699582,
@@ -1056,7 +1056,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Avenue J",
+      "Station": "Avenue J",
       "2011": 2085557,
       "2012": 1807574,
       "2013": 1867576,
@@ -1067,7 +1067,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Avenue M",
+      "Station": "Avenue M",
       "2011": 1345774,
       "2012": 1608901,
       "2013": 1730576,
@@ -1078,7 +1078,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Avenue N",
+      "Station": "Avenue N",
       "2011": 1049752,
       "2012": 1012534,
       "2013": 1044429,
@@ -1089,7 +1089,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Avenue P",
+      "Station": "Avenue P",
       "2011": 836317,
       "2012": 825620,
       "2013": 861095,
@@ -1100,7 +1100,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Avenue U",
+      "Station": "Avenue U",
       "2011": 696998,
       "2012": 707595,
       "2013": 717486,
@@ -1111,7 +1111,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Avenue U",
+      "Station": "Avenue U",
       "2011": 1244178,
       "2012": 1297870,
       "2013": 1211062,
@@ -1122,7 +1122,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Avenue U",
+      "Station": "Avenue U",
       "2011": 2136714,
       "2012": 2071874,
       "2013": 2176073,
@@ -1133,7 +1133,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Avenue X",
+      "Station": "Avenue X",
       "2011": 854737,
       "2012": 860597,
       "2013": 908520,
@@ -1144,7 +1144,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Bay 50 St",
+      "Station": "Bay 50 St",
       "2011": 920243,
       "2012": 777836,
       "2013": 847843,
@@ -1155,7 +1155,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Bay Pkwy",
+      "Station": "Bay Pkwy",
       "2011": 2018400,
       "2012": 2038864,
       "2013": 2298420,
@@ -1166,7 +1166,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Bay Pkwy",
+      "Station": "Bay Pkwy",
       "2011": 434564,
       "2012": 464906,
       "2013": 487308,
@@ -1177,7 +1177,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Bay Pkwy",
+      "Station": "Bay Pkwy",
       "2011": 2160569,
       "2012": 2221968,
       "2013": 2243082,
@@ -1188,7 +1188,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Bay Ridge Av",
+      "Station": "Bay Ridge Av",
       "2011": 2538150,
       "2012": 2522369,
       "2013": 2525470,
@@ -1199,7 +1199,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Bay Ridge-95 St",
+      "Station": "Bay Ridge-95 St",
       "2011": 1769432,
       "2012": 1809829,
       "2013": 1830193,
@@ -1210,7 +1210,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Bedford Av",
+      "Station": "Bedford Av",
       "2011": 7738863,
       "2012": 8342397,
       "2013": 9214395,
@@ -1221,7 +1221,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Bedford-Nostrand Avs",
+      "Station": "Bedford-Nostrand Avs",
       "2011": 2012606,
       "2012": 2138852,
       "2013": 2348998,
@@ -1232,7 +1232,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Bergen St",
+      "Station": "Bergen St",
       "2011": 1326721,
       "2012": 1397036,
       "2013": 1296199,
@@ -1243,7 +1243,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Bergen St",
+      "Station": "Bergen St",
       "2011": 3452452,
       "2012": 3529174,
       "2013": 3650848,
@@ -1254,7 +1254,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Beverley Rd",
+      "Station": "Beverley Rd",
       "2011": 1095502,
       "2012": 950243,
       "2013": 737652,
@@ -1265,7 +1265,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Beverly Rd",
+      "Station": "Beverly Rd",
       "2011": 1276466,
       "2012": 1274789,
       "2013": 1364573,
@@ -1276,7 +1276,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Brighton Beach",
+      "Station": "Brighton Beach",
       "2011": 3842789,
       "2012": 3781554,
       "2013": 3810743,
@@ -1287,7 +1287,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Broadway",
+      "Station": "Broadway",
       "2011": 995856,
       "2012": 1023397,
       "2013": 1071877,
@@ -1298,7 +1298,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Broadway Junction",
+      "Station": "Broadway Junction",
       "2011": 2810713,
       "2012": 2862830,
       "2013": 2948156,
@@ -1309,7 +1309,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Bushwick Av-Aberdeen St",
+      "Station": "Bushwick Av-Aberdeen St",
       "2011": 405385,
       "2012": 427032,
       "2013": 490042,
@@ -1320,7 +1320,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Canarsie-Rockaway Pkwy",
+      "Station": "Canarsie-Rockaway Pkwy",
       "2011": 3865823,
       "2012": 3920243,
       "2013": 4062690,
@@ -1331,7 +1331,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Carroll St",
+      "Station": "Carroll St",
       "2011": 3598477,
       "2012": 3961111,
       "2013": 3782675,
@@ -1342,7 +1342,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Central Av",
+      "Station": "Central Av",
       "2011": 890194,
       "2012": 992142,
       "2013": 505757,
@@ -1353,7 +1353,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Chauncey St",
+      "Station": "Chauncey St",
       "2011": 966989,
       "2012": 964735,
       "2013": 938803,
@@ -1364,7 +1364,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Church Av",
+      "Station": "Church Av",
       "2011": 3057877,
       "2012": 2987887,
       "2013": 3059215,
@@ -1375,7 +1375,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Church Av",
+      "Station": "Church Av",
       "2011": 4665059,
       "2012": 4982615,
       "2013": 5603898,
@@ -1386,7 +1386,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Church Av",
+      "Station": "Church Av",
       "2011": 3271729,
       "2012": 3081142,
       "2013": 3193844,
@@ -1397,7 +1397,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Clark St",
+      "Station": "Clark St",
       "2011": 1754204,
       "2012": 1855650,
       "2013": 1972314,
@@ -1408,7 +1408,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Classon Av",
+      "Station": "Classon Av",
       "2011": 1308232,
       "2012": 1355886,
       "2013": 1432872,
@@ -1419,7 +1419,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Cleveland St",
+      "Station": "Cleveland St",
       "2011": 1002848,
       "2012": 1029708,
       "2013": 1050261,
@@ -1430,7 +1430,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Clinton-Washington Avs",
+      "Station": "Clinton-Washington Avs",
       "2011": 1819542,
       "2012": 1891559,
       "2013": 2104035,
@@ -1441,7 +1441,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Clinton-Washington Avs",
+      "Station": "Clinton-Washington Avs",
       "2011": 1628558,
       "2012": 1637463,
       "2013": 1678004,
@@ -1452,7 +1452,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Coney Island-Stillwell Av",
+      "Station": "Coney Island-Stillwell Av",
       "2011": 4649438,
       "2012": 4733106,
       "2013": 4690794,
@@ -1463,7 +1463,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Cortelyou Rd",
+      "Station": "Cortelyou Rd",
       "2011": 2135444,
       "2012": 1992781,
       "2013": 1700177,
@@ -1474,7 +1474,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Court St/Borough Hall",
+      "Station": "Court St/Borough Hall",
       "2011": 11115037,
       "2012": 10988473,
       "2013": 11291705,
@@ -1485,7 +1485,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Crescent St",
+      "Station": "Crescent St",
       "2011": 1514075,
       "2012": 1504645,
       "2013": 1509290,
@@ -1496,7 +1496,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Crown Heights-Utica Av",
+      "Station": "Crown Heights-Utica Av",
       "2011": 8438284,
       "2012": 8469613,
       "2013": 8534705,
@@ -1507,7 +1507,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Cypress Hills",
+      "Station": "Cypress Hills",
       "2011": 435446,
       "2012": 411495,
       "2013": 432557,
@@ -1518,7 +1518,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "DeKalb Av",
+      "Station": "DeKalb Av",
       "2011": 5122803,
       "2012": 5222096,
       "2013": 5223608,
@@ -1529,7 +1529,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "DeKalb Av",
+      "Station": "DeKalb Av",
       "2011": 3382468,
       "2012": 3495896,
       "2013": 3712102,
@@ -1540,7 +1540,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Ditmas Av",
+      "Station": "Ditmas Av",
       "2011": 1392790,
       "2012": 1404811,
       "2013": 1455737,
@@ -1551,7 +1551,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "East 105 St",
+      "Station": "East 105 St",
       "2011": 1101683,
       "2012": 1110433,
       "2013": 1161688,
@@ -1562,7 +1562,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Eastern Pkwy-Brooklyn Museum",
+      "Station": "Eastern Pkwy-Brooklyn Museum",
       "2011": 1568924,
       "2012": 1578613,
       "2013": 1674856,
@@ -1573,7 +1573,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Euclid Av",
+      "Station": "Euclid Av",
       "2011": 3100867,
       "2012": 3115445,
       "2013": 3323235,
@@ -1584,7 +1584,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Flatbush Av-Brooklyn College",
+      "Station": "Flatbush Av-Brooklyn College",
       "2011": 6547958,
       "2012": 6384496,
       "2013": 6562226,
@@ -1595,7 +1595,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Flushing Av",
+      "Station": "Flushing Av",
       "2011": 616083,
       "2012": 655317,
       "2013": 728668,
@@ -1606,7 +1606,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Flushing Av",
+      "Station": "Flushing Av",
       "2011": 2683278,
       "2012": 2776360,
       "2013": 2869903,
@@ -1617,7 +1617,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Fort Hamilton Pkwy",
+      "Station": "Fort Hamilton Pkwy",
       "2011": 1103024,
       "2012": 1025285,
       "2013": 1240644,
@@ -1628,7 +1628,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Fort Hamilton Pkwy",
+      "Station": "Fort Hamilton Pkwy",
       "2011": 1292131,
       "2012": 1538039,
       "2013": 1688093,
@@ -1639,7 +1639,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Fort Hamilton Pkwy",
+      "Station": "Fort Hamilton Pkwy",
       "2011": 2086389,
       "2012": 2105486,
       "2013": 2200487,
@@ -1650,7 +1650,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Franklin Av/Botanic Garden",
+      "Station": "Franklin Av/Botanic Garden",
       "2011": 4712492,
       "2012": 4934593,
       "2013": 5125782,
@@ -1661,7 +1661,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Franklin Av",
+      "Station": "Franklin Av",
       "2011": 1904736,
       "2012": 1982691,
       "2013": 2049246,
@@ -1672,7 +1672,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Fulton St",
+      "Station": "Fulton St",
       "2011": 1179034,
       "2012": 1280063,
       "2013": 1394890,
@@ -1683,7 +1683,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Gates Av",
+      "Station": "Gates Av",
       "2011": 1870109,
       "2012": 1901060,
       "2013": 1895878,
@@ -1694,7 +1694,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Graham Av",
+      "Station": "Graham Av",
       "2011": 3054897,
       "2012": 3086342,
       "2013": 3179579,
@@ -1705,7 +1705,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Grand Army Plaza",
+      "Station": "Grand Army Plaza",
       "2011": 2417351,
       "2012": 2507555,
       "2013": 2556750,
@@ -1716,7 +1716,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Grand St",
+      "Station": "Grand St",
       "2011": 2135063,
       "2012": 2145374,
       "2013": 2260023,
@@ -1727,7 +1727,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Grant Av",
+      "Station": "Grant Av",
       "2011": 1953637,
       "2012": 1952581,
       "2013": 1958503,
@@ -1738,7 +1738,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Greenpoint Av",
+      "Station": "Greenpoint Av",
       "2011": 2490286,
       "2012": 2521422,
       "2013": 2543568,
@@ -1749,7 +1749,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Halsey St",
+      "Station": "Halsey St",
       "2011": 1805490,
       "2012": 1800505,
       "2013": 1845755,
@@ -1760,7 +1760,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Halsey St",
+      "Station": "Halsey St",
       "2011": 2037729,
       "2012": 2136529,
       "2013": 2317512,
@@ -1771,7 +1771,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Hewes St",
+      "Station": "Hewes St",
       "2011": 848377,
       "2012": 895661,
       "2013": 927212,
@@ -1782,7 +1782,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "High St",
+      "Station": "High St",
       "2011": 2093306,
       "2012": 2209212,
       "2013": 2441136,
@@ -1793,7 +1793,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Hoyt St",
+      "Station": "Hoyt St",
       "2011": 1922916,
       "2012": 1978582,
       "2013": 2033085,
@@ -1804,7 +1804,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Hoyt-Schermerhorn Sts",
+      "Station": "Hoyt-Schermerhorn Sts",
       "2011": 2968639,
       "2012": 2990881,
       "2013": 2971379,
@@ -1815,7 +1815,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Jay St-MetroTech",
+      "Station": "Jay St-MetroTech",
       "2011": 11149629,
       "2012": 11492780,
       "2013": 11793956,
@@ -1826,7 +1826,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Jefferson St",
+      "Station": "Jefferson St",
       "2011": 1815391,
       "2012": 1906878,
       "2013": 2136772,
@@ -1837,7 +1837,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Junius St",
+      "Station": "Junius St",
       "2011": 678990,
       "2012": 660013,
       "2013": 690625,
@@ -1848,7 +1848,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Kings Hwy",
+      "Station": "Kings Hwy",
       "2011": 5311662,
       "2012": 5453084,
       "2013": 5697467,
@@ -1859,7 +1859,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Kings Hwy",
+      "Station": "Kings Hwy",
       "2011": 1115062,
       "2012": 1117098,
       "2013": 1134042,
@@ -1870,7 +1870,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Kings Hwy",
+      "Station": "Kings Hwy",
       "2011": 1601357,
       "2012": 1616827,
       "2013": 1630749,
@@ -1881,7 +1881,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Kingston Av",
+      "Station": "Kingston Av",
       "2011": 1519113,
       "2012": 1515277,
       "2013": 1545567,
@@ -1892,7 +1892,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Kingston-Throop Avs",
+      "Station": "Kingston-Throop Avs",
       "2011": 1659127,
       "2012": 1703474,
       "2013": 1834623,
@@ -1903,7 +1903,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Knickerbocker Av",
+      "Station": "Knickerbocker Av",
       "2011": 1136213,
       "2012": 702426,
       "2013": 1018286,
@@ -1914,7 +1914,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Kosciuszko St",
+      "Station": "Kosciuszko St",
       "2011": 1468119,
       "2012": 1482044,
       "2013": 1515244,
@@ -1925,7 +1925,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Lafayette Av",
+      "Station": "Lafayette Av",
       "2011": 1556902,
       "2012": 1582360,
       "2013": 1638947,
@@ -1936,7 +1936,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Liberty Av",
+      "Station": "Liberty Av",
       "2011": 817481,
       "2012": 796044,
       "2013": 810031,
@@ -1947,7 +1947,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Livonia Av",
+      "Station": "Livonia Av",
       "2011": 829015,
       "2012": 902860,
       "2013": 934287,
@@ -1958,7 +1958,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Lorimer St",
+      "Station": "Lorimer St",
       "2011": 1470761,
       "2012": 1494085,
       "2013": 1523986,
@@ -1969,7 +1969,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Lorimer St/Metropolitan Av",
+      "Station": "Lorimer St/Metropolitan Av",
       "2011": 4479022,
       "2012": 4643512,
       "2013": 5040719,
@@ -1980,7 +1980,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Marcy Av",
+      "Station": "Marcy Av",
       "2011": 3609981,
       "2012": 3564065,
       "2013": 3681903,
@@ -1991,7 +1991,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Montrose Av",
+      "Station": "Montrose Av",
       "2011": 1983449,
       "2012": 2075901,
       "2013": 2178772,
@@ -2002,7 +2002,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Morgan Av",
+      "Station": "Morgan Av",
       "2011": 2114813,
       "2012": 2262826,
       "2013": 2373595,
@@ -2013,7 +2013,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Myrtle Av",
+      "Station": "Myrtle Av",
       "2011": 3155344,
       "2012": 3257338,
       "2013": 3562631,
@@ -2024,7 +2024,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Myrtle-Willoughby Avs",
+      "Station": "Myrtle-Willoughby Avs",
       "2011": 1383197,
       "2012": 1440313,
       "2013": 1578243,
@@ -2035,7 +2035,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Myrtle-Wyckoff Avs",
+      "Station": "Myrtle-Wyckoff Avs",
       "2011": 5358434,
       "2012": 5662633,
       "2013": 5982615,
@@ -2046,7 +2046,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Nassau Av",
+      "Station": "Nassau Av",
       "2011": 2396169,
       "2012": 2479649,
       "2013": 2653526,
@@ -2057,7 +2057,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Neck Rd",
+      "Station": "Neck Rd",
       "2011": 1242661,
       "2012": 1148708,
       "2013": 1218313,
@@ -2068,7 +2068,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Neptune Av",
+      "Station": "Neptune Av",
       "2011": 536991,
       "2012": 505076,
       "2013": 523554,
@@ -2079,7 +2079,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Nevins St",
+      "Station": "Nevins St",
       "2011": 3524471,
       "2012": 3454621,
       "2013": 3477861,
@@ -2090,7 +2090,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "New Lots Av",
+      "Station": "New Lots Av",
       "2011": 1954353,
       "2012": 1857630,
       "2013": 1975478,
@@ -2101,7 +2101,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "New Lots Av",
+      "Station": "New Lots Av",
       "2011": 1304384,
       "2012": 1379065,
       "2013": 1499902,
@@ -2112,7 +2112,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "New Utrecht Av/62 St",
+      "Station": "New Utrecht Av/62 St",
       "2011": 1768935,
       "2012": 1931306,
       "2013": 1654945,
@@ -2123,7 +2123,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Newkirk Av",
+      "Station": "Newkirk Av",
       "2011": 2352060,
       "2012": 2279365,
       "2013": 2393978,
@@ -2134,7 +2134,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Newkirk Plaza",
+      "Station": "Newkirk Plaza",
       "2011": 2999870,
       "2012": 3021079,
       "2013": 3380559,
@@ -2145,7 +2145,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Norwood Av",
+      "Station": "Norwood Av",
       "2011": 1065062,
       "2012": 1097011,
       "2013": 1095573,
@@ -2156,7 +2156,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Nostrand Av",
+      "Station": "Nostrand Av",
       "2011": 1324424,
       "2012": 1313227,
       "2013": 1327377,
@@ -2167,7 +2167,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Nostrand Av",
+      "Station": "Nostrand Av",
       "2011": 5139201,
       "2012": 5283444,
       "2013": 5510841,
@@ -2178,7 +2178,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Ocean Pkwy",
+      "Station": "Ocean Pkwy",
       "2011": 1033582,
       "2012": 983972,
       "2013": 990091,
@@ -2189,7 +2189,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Park Pl",
+      "Station": "Park Pl",
       "2011": 707253,
       "2012": 682438,
       "2013": 646934,
@@ -2200,7 +2200,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Parkside Av",
+      "Station": "Parkside Av",
       "2011": 2098007,
       "2012": 1812362,
       "2013": 1381093,
@@ -2211,7 +2211,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Pennsylvania Av",
+      "Station": "Pennsylvania Av",
       "2011": 1805956,
       "2012": 1690851,
       "2013": 1752108,
@@ -2222,7 +2222,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "President St",
+      "Station": "President St",
       "2011": 1133831,
       "2012": 1142008,
       "2013": 1216019,
@@ -2233,7 +2233,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Prospect Av",
+      "Station": "Prospect Av",
       "2011": 1930101,
       "2012": 1864725,
       "2013": 1826064,
@@ -2244,7 +2244,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Prospect Park",
+      "Station": "Prospect Park",
       "2011": 2815199,
       "2012": 2892200,
       "2013": 3190679,
@@ -2255,7 +2255,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Ralph Av",
+      "Station": "Ralph Av",
       "2011": 1585546,
       "2012": 1625548,
       "2013": 1719602,
@@ -2266,7 +2266,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Rockaway Av",
+      "Station": "Rockaway Av",
       "2011": 1792136,
       "2012": 1682755,
       "2013": 1753354,
@@ -2277,7 +2277,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Rockaway Av",
+      "Station": "Rockaway Av",
       "2011": 1548571,
       "2012": 1574733,
       "2013": 1615457,
@@ -2288,7 +2288,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Saratoga Av",
+      "Station": "Saratoga Av",
       "2011": 1743578,
       "2012": 1676421,
       "2013": 1777399,
@@ -2299,7 +2299,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Sheepshead Bay",
+      "Station": "Sheepshead Bay",
       "2011": 4096449,
       "2012": 4148629,
       "2013": 4205275,
@@ -2310,7 +2310,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Shepherd Av",
+      "Station": "Shepherd Av",
       "2011": 930613,
       "2012": 945113,
       "2013": 988620,
@@ -2321,7 +2321,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Smith-9 Sts",
+      "Station": "Smith-9 Sts",
       "2011": 577571,
       "2012": 0,
       "2013": 926087,
@@ -2332,7 +2332,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Sterling St",
+      "Station": "Sterling St",
       "2011": 1787824,
       "2012": 1803628,
       "2013": 1866122,
@@ -2343,7 +2343,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Sutter Av",
+      "Station": "Sutter Av",
       "2011": 1303422,
       "2012": 1383957,
       "2013": 1449524,
@@ -2354,7 +2354,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Sutter Av-Rutland Rd",
+      "Station": "Sutter Av-Rutland Rd",
       "2011": 2370949,
       "2012": 2288256,
       "2013": 2419794,
@@ -2365,7 +2365,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Union St",
+      "Station": "Union St",
       "2011": 2228520,
       "2012": 2148505,
       "2013": 2058555,
@@ -2376,7 +2376,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Utica Av",
+      "Station": "Utica Av",
       "2011": 4437282,
       "2012": 4530536,
       "2013": 4726582,
@@ -2387,7 +2387,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Van Siclen Av",
+      "Station": "Van Siclen Av",
       "2011": 1061359,
       "2012": 1016466,
       "2013": 1060055,
@@ -2398,7 +2398,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Van Siclen Av",
+      "Station": "Van Siclen Av",
       "2011": 901530,
       "2012": 897528,
       "2013": 941172,
@@ -2409,7 +2409,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Van Siclen Av",
+      "Station": "Van Siclen Av",
       "2011": 886663,
       "2012": 893665,
       "2013": 913115,
@@ -2420,7 +2420,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "West 8 St-New York Aquarium",
+      "Station": "West 8 St-New York Aquarium",
       "2011": 814749,
       "2012": 767921,
       "2013": 702810,
@@ -2431,7 +2431,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Wilson Av",
+      "Station": "Wilson Av",
       "2011": 1093030,
       "2012": 1115994,
       "2013": 1243700,
@@ -2442,7 +2442,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "Winthrop St",
+      "Station": "Winthrop St",
       "2011": 2173945,
       "2012": 2171267,
       "2013": 2275444,
@@ -2453,7 +2453,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "York St",
+      "Station": "York St",
       "2011": 2251649,
       "2012": 2344141,
       "2013": 2666502,
@@ -2464,7 +2464,7 @@
       "Borough": "Brooklyn"
     },
     {
-      "Station (alphabetical by borough)": "1 Av",
+      "Station": "1 Av",
       "2011": 7050336,
       "2012": 7296576,
       "2013": 7735905,
@@ -2475,7 +2475,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "103 St",
+      "Station": "103 St",
       "2011": 4302101,
       "2012": 4366343,
       "2013": 4427199,
@@ -2486,7 +2486,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "103 St",
+      "Station": "103 St",
       "2011": 4901637,
       "2012": 4861001,
       "2013": 5038138,
@@ -2497,7 +2497,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "103 St",
+      "Station": "103 St",
       "2011": 1453267,
       "2012": 1472319,
       "2013": 1528633,
@@ -2508,7 +2508,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "110 St",
+      "Station": "110 St",
       "2011": 3771563,
       "2012": 3740549,
       "2013": 3841826,
@@ -2519,7 +2519,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "116 St",
+      "Station": "116 St",
       "2011": 3439949,
       "2012": 3584234,
       "2013": 3715803,
@@ -2530,7 +2530,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "116 St",
+      "Station": "116 St",
       "2011": 5253753,
       "2012": 5264035,
       "2013": 5347692,
@@ -2541,7 +2541,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "116 St",
+      "Station": "116 St",
       "2011": 1944599,
       "2012": 2000033,
       "2013": 2122084,
@@ -2552,7 +2552,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "116 St-Columbia University",
+      "Station": "116 St-Columbia University",
       "2011": 4932065,
       "2012": 4942022,
       "2013": 5044561,
@@ -2563,7 +2563,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "125 St",
+      "Station": "125 St",
       "2011": 2438449,
       "2012": 2560513,
       "2013": 2649847,
@@ -2574,7 +2574,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "125 St",
+      "Station": "125 St",
       "2011": 4518487,
       "2012": 4635697,
       "2013": 4917465,
@@ -2585,7 +2585,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "125 St",
+      "Station": "125 St",
       "2011": 8868272,
       "2012": 8965496,
       "2013": 9290210,
@@ -2596,7 +2596,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "125 St",
+      "Station": "125 St",
       "2011": 8173608,
       "2012": 8427453,
       "2013": 8932680,
@@ -2607,7 +2607,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "135 St",
+      "Station": "135 St",
       "2011": 4344677,
       "2012": 4477110,
       "2013": 4672352,
@@ -2618,7 +2618,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "135 St",
+      "Station": "135 St",
       "2011": 1575802,
       "2012": 1633467,
       "2013": 1722204,
@@ -2629,7 +2629,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "137 St-City College",
+      "Station": "137 St-City College",
       "2011": 4546654,
       "2012": 4634498,
       "2013": 4825267,
@@ -2640,7 +2640,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "14 St/8 Av",
+      "Station": "14 St/8 Av",
       "2011": 12415290,
       "2012": 13044037,
       "2013": 13903211,
@@ -2651,7 +2651,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "14 St/6 Av",
+      "Station": "14 St/6 Av",
       "2011": 15199211,
       "2012": 15487097,
       "2013": 15844699,
@@ -2662,7 +2662,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "14 St-Union Sq",
+      "Station": "14 St-Union Sq",
       "2011": 34927178,
       "2012": 34639575,
       "2013": 35309414,
@@ -2673,7 +2673,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "145 St",
+      "Station": "145 St",
       "2011": 3138419,
       "2012": 3289827,
       "2013": 3274106,
@@ -2684,7 +2684,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "145 St",
+      "Station": "145 St",
       "2011": 981914,
       "2012": 1014623,
       "2013": 1073259,
@@ -2695,7 +2695,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "145 St",
+      "Station": "145 St",
       "2011": 6948193,
       "2012": 7048936,
       "2013": 7432177,
@@ -2706,7 +2706,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "155 St",
+      "Station": "155 St",
       "2011": 1248295,
       "2012": 1257551,
       "2013": 1281168,
@@ -2717,7 +2717,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "155 St",
+      "Station": "155 St",
       "2011": 792465,
       "2012": 798881,
       "2013": 822333,
@@ -2728,7 +2728,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "157 St",
+      "Station": "157 St",
       "2011": 3259408,
       "2012": 3381015,
       "2013": 3458058,
@@ -2739,7 +2739,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "163 St-Amsterdam Av",
+      "Station": "163 St-Amsterdam Av",
       "2011": 1221336,
       "2012": 1230018,
       "2013": 1317493,
@@ -2750,7 +2750,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "168 St",
+      "Station": "168 St",
       "2011": 7500154,
       "2012": 7503282,
       "2013": 7884456,
@@ -2761,7 +2761,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "175 St",
+      "Station": "175 St",
       "2011": 4029936,
       "2012": 4028015,
       "2013": 4154792,
@@ -2772,7 +2772,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "18 St",
+      "Station": "18 St",
       "2011": 2497134,
       "2012": 2533877,
       "2013": 2585522,
@@ -2783,7 +2783,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "181 St",
+      "Station": "181 St",
       "2011": 3171483,
       "2012": 3496979,
       "2013": 3608658,
@@ -2794,7 +2794,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "181 St",
+      "Station": "181 St",
       "2011": 3245786,
       "2012": 3242555,
       "2013": 3309493,
@@ -2805,7 +2805,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "190 St",
+      "Station": "190 St",
       "2011": 1445656,
       "2012": 1473807,
       "2013": 1472564,
@@ -2816,7 +2816,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "191 St",
+      "Station": "191 St",
       "2011": 2318562,
       "2012": 2512719,
       "2013": 2598961,
@@ -2827,7 +2827,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "2 Av",
+      "Station": "2 Av",
       "2011": 5728217,
       "2012": 5706955,
       "2013": 5999079,
@@ -2838,7 +2838,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "207 St",
+      "Station": "207 St",
       "2011": 2054287,
       "2012": 2205288,
       "2013": 1966949,
@@ -2849,7 +2849,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "215 St",
+      "Station": "215 St",
       "2011": 583486,
       "2012": 599790,
       "2013": 638224,
@@ -2860,7 +2860,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "23 St",
+      "Station": "23 St",
       "2011": 4622230,
       "2012": 4654520,
       "2013": 4818903,
@@ -2871,7 +2871,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "23 St",
+      "Station": "23 St",
       "2011": 8999142,
       "2012": 8901705,
       "2013": 9200337,
@@ -2882,7 +2882,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "23 St",
+      "Station": "23 St",
       "2011": 7001778,
       "2012": 7155940,
       "2013": 7629811,
@@ -2893,7 +2893,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "23 St",
+      "Station": "23 St",
       "2011": 7911886,
       "2012": 8078511,
       "2013": 8446249,
@@ -2904,7 +2904,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "23 St",
+      "Station": "23 St",
       "2011": 6659479,
       "2012": 6805210,
       "2013": 6905704,
@@ -2915,7 +2915,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "28 St",
+      "Station": "28 St",
       "2011": 4093901,
       "2012": 4346501,
       "2013": 4548738,
@@ -2926,7 +2926,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "28 St",
+      "Station": "28 St",
       "2011": 6741400,
       "2012": 6688570,
       "2013": 7076992,
@@ -2937,7 +2937,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "28 St",
+      "Station": "28 St",
       "2011": 3297714,
       "2012": 3413315,
       "2013": 3520209,
@@ -2948,7 +2948,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "3 Av",
+      "Station": "3 Av",
       "2011": 2048408,
       "2012": 2182023,
       "2013": 2310062,
@@ -2959,7 +2959,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "33 St",
+      "Station": "33 St",
       "2011": 9220240,
       "2012": 9374676,
       "2013": 9756409,
@@ -2970,7 +2970,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "34 St-Herald Square",
+      "Station": "34 St-Herald Square",
       "2011": 37731386,
       "2012": 37154138,
       "2013": 38213448,
@@ -2981,7 +2981,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "34 St-Hudson Yards",
+      "Station": "34 St-Hudson Yards",
       "2011": null,
       "2012": null,
       "2013": null,
@@ -2992,7 +2992,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "34 St-Penn Station",
+      "Station": "34 St-Penn Station",
       "2011": 26758623,
       "2012": 27010176,
       "2013": 27730331,
@@ -3003,7 +3003,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "34 St-Penn Station",
+      "Station": "34 St-Penn Station",
       "2011": 24751771,
       "2012": 24851746,
       "2013": 25726374,
@@ -3014,7 +3014,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "42 St-Bryant Pk/5 Av",
+      "Station": "42 St-Bryant Pk/5 Av",
       "2011": 14752187,
       "2012": 14917245,
       "2013": 15527439,
@@ -3025,7 +3025,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "47-50 Sts-Rockefeller Center",
+      "Station": "47-50 Sts-Rockefeller Center",
       "2011": 17466013,
       "2012": 17091251,
       "2013": 17759382,
@@ -3036,7 +3036,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "49 St",
+      "Station": "49 St",
       "2011": 8121552,
       "2012": 8186576,
       "2013": 8155010,
@@ -3047,7 +3047,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "5 Av-53 St",
+      "Station": "5 Av-53 St",
       "2011": 6519696,
       "2012": 6744422,
       "2013": 7298061,
@@ -3058,7 +3058,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "5 Av-59 St",
+      "Station": "5 Av-59 St",
       "2011": 5893657,
       "2012": 5941836,
       "2013": 5927685,
@@ -3069,7 +3069,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "50 St",
+      "Station": "50 St",
       "2011": 7647852,
       "2012": 7927578,
       "2013": 8074270,
@@ -3080,7 +3080,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "50 St",
+      "Station": "50 St",
       "2011": 5573587,
       "2012": 5714183,
       "2013": 6259935,
@@ -3091,7 +3091,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "57 St",
+      "Station": "57 St",
       "2011": 4630781,
       "2012": 4408190,
       "2013": 4520733,
@@ -3102,7 +3102,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "57 St-7 Av",
+      "Station": "57 St-7 Av",
       "2011": 8613792,
       "2012": 8726980,
       "2013": 8945751,
@@ -3113,7 +3113,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "59 St-Columbus Circle",
+      "Station": "59 St-Columbus Circle",
       "2011": 21300892,
       "2012": 21599586,
       "2013": 22774421,
@@ -3124,7 +3124,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "66 St-Lincoln Center",
+      "Station": "66 St-Lincoln Center",
       "2011": 7089390,
       "2012": 7367599,
       "2013": 7527781,
@@ -3135,7 +3135,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "68 St-Hunter College",
+      "Station": "68 St-Hunter College",
       "2011": 10481234,
       "2012": 10373302,
       "2013": 10520477,
@@ -3146,7 +3146,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "7 Av",
+      "Station": "7 Av",
       "2011": 4297779,
       "2012": 4384090,
       "2013": 4744808,
@@ -3157,7 +3157,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "72 St",
+      "Station": "72 St",
       "2011": 12784301,
       "2012": 13043031,
       "2013": 13456906,
@@ -3168,7 +3168,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "72 St",
+      "Station": "72 St",
       "2011": 2787379,
       "2012": 2832934,
       "2013": 2942517,
@@ -3179,7 +3179,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "77 St",
+      "Station": "77 St",
       "2011": 11163007,
       "2012": 11109431,
       "2013": 11167386,
@@ -3190,7 +3190,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "79 St",
+      "Station": "79 St",
       "2011": 5330857,
       "2012": 5292422,
       "2013": 5438078,
@@ -3201,7 +3201,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "8 St-New York University",
+      "Station": "8 St-New York University",
       "2011": 5779126,
       "2012": 5663358,
       "2013": 5379647,
@@ -3212,7 +3212,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "81 St-Museum of Natural History",
+      "Station": "81 St-Museum of Natural History",
       "2011": 4116976,
       "2012": 4232404,
       "2013": 4477625,
@@ -3223,7 +3223,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "86 St",
+      "Station": "86 St",
       "2011": 6128225,
       "2012": 6219513,
       "2013": 6333352,
@@ -3234,7 +3234,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "86 St",
+      "Station": "86 St",
       "2011": 19425347,
       "2012": 19686985,
       "2013": 20528208,
@@ -3245,7 +3245,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "86 St",
+      "Station": "86 St",
       "2011": 3238616,
       "2012": 3300644,
       "2013": 3408922,
@@ -3256,7 +3256,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "96 St",
+      "Station": "96 St",
       "2011": 11784341,
       "2012": 12108040,
       "2013": 12582947,
@@ -3267,7 +3267,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "96 St",
+      "Station": "96 St",
       "2011": 7753114,
       "2012": 7708346,
       "2013": 7785646,
@@ -3278,7 +3278,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "96 St",
+      "Station": "96 St",
       "2011": 2775904,
       "2012": 2829949,
       "2013": 2979535,
@@ -3289,7 +3289,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "Astor Place",
+      "Station": "Astor Place",
       "2011": 5571077,
       "2012": 5535996,
       "2013": 5775276,
@@ -3300,7 +3300,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "Bowery",
+      "Station": "Bowery",
       "2011": 991686,
       "2012": 968629,
       "2013": 970576,
@@ -3311,7 +3311,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "Bowling Green",
+      "Station": "Bowling Green",
       "2011": 7793614,
       "2012": 7990789,
       "2013": 9081649,
@@ -3322,7 +3322,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "Broad St",
+      "Station": "Broad St",
       "2011": 1473717,
       "2012": 1315012,
       "2013": 1436506,
@@ -3333,7 +3333,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "Broadway-Lafayette St/Bleecker St",
+      "Station": "Broadway-Lafayette St/Bleecker St",
       "2011": 11651990,
       "2012": 11792114,
       "2013": 12560629,
@@ -3344,7 +3344,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "Brooklyn Bridge-City Hall/Chambers St",
+      "Station": "Brooklyn Bridge-City Hall/Chambers St",
       "2011": 10681037,
       "2012": 10650508,
       "2013": 10721984,
@@ -3355,7 +3355,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "Canal St",
+      "Station": "Canal St",
       "2011": 1785923,
       "2012": 1727415,
       "2013": 1787110,
@@ -3366,7 +3366,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "Canal St",
+      "Station": "Canal St",
       "2011": 5646937,
       "2012": 5612068,
       "2013": 5922371,
@@ -3377,7 +3377,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "Canal St",
+      "Station": "Canal St",
       "2011": 15577018,
       "2012": 15529659,
       "2013": 15227139,
@@ -3388,7 +3388,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "Cathedral Pkwy-110 St",
+      "Station": "Cathedral Pkwy-110 St",
       "2011": 4440822,
       "2012": 4491643,
       "2013": 4557743,
@@ -3399,7 +3399,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "Cathedral Pkwy-110 St",
+      "Station": "Cathedral Pkwy-110 St",
       "2011": 2166542,
       "2012": 2207790,
       "2013": 2301545,
@@ -3410,7 +3410,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "Central Park North-110 St",
+      "Station": "Central Park North-110 St",
       "2011": 2724841,
       "2012": 2808386,
       "2013": 2932790,
@@ -3421,7 +3421,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "Chambers St",
+      "Station": "Chambers St",
       "2011": 6554728,
       "2012": 6603287,
       "2013": 6755281,
@@ -3432,7 +3432,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "Chambers St/WTC/Park Place",
+      "Station": "Chambers St/WTC/Park Place",
       "2011": 15458781,
       "2012": 15364366,
       "2013": 15641210,
@@ -3443,7 +3443,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "Christopher St-Sheridan Sq",
+      "Station": "Christopher St-Sheridan Sq",
       "2011": 3471186,
       "2012": 3435088,
       "2013": 3433544,
@@ -3454,7 +3454,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "City Hall",
+      "Station": "City Hall",
       "2011": 2627822,
       "2012": 2094122,
       "2013": 1560414,
@@ -3465,7 +3465,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "Cortlandt St",
+      "Station": "Cortlandt St",
       "2011": 0,
       "2012": 0,
       "2013": 0,
@@ -3476,7 +3476,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "Cortlandt St",
+      "Station": "Cortlandt St",
       "2011": 1640638,
       "2012": 2062289,
       "2013": 1601732,
@@ -3487,7 +3487,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "Delancey St/Essex St",
+      "Station": "Delancey St/Essex St",
       "2011": 7172867,
       "2012": 7280936,
       "2013": 7759914,
@@ -3498,7 +3498,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "Dyckman St",
+      "Station": "Dyckman St",
       "2011": 1212678,
       "2012": 1231954,
       "2013": 2094538,
@@ -3509,7 +3509,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "Dyckman St",
+      "Station": "Dyckman St",
       "2011": 2326780,
       "2012": 2344316,
       "2013": 2112706,
@@ -3520,7 +3520,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "East Broadway",
+      "Station": "East Broadway",
       "2011": 4057707,
       "2012": 4021679,
       "2013": 4208654,
@@ -3531,7 +3531,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "Franklin St",
+      "Station": "Franklin St",
       "2011": 1777323,
       "2012": 1714218,
       "2013": 1703889,
@@ -3542,7 +3542,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "Fulton St",
+      "Station": "Fulton St",
       "2011": 17971983,
       "2012": 17868334,
       "2013": 18721694,
@@ -3553,7 +3553,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "Grand Central-42 St",
+      "Station": "Grand Central-42 St",
       "2011": 42795505,
       "2012": 42984249,
       "2013": 44893301,
@@ -3564,7 +3564,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "Grand St",
+      "Station": "Grand St",
       "2011": 7770139,
       "2012": 7658249,
       "2013": 7994060,
@@ -3575,7 +3575,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "Harlem-148 St",
+      "Station": "Harlem-148 St",
       "2011": 1101666,
       "2012": 1110842,
       "2013": 1171372,
@@ -3586,7 +3586,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "Houston St",
+      "Station": "Houston St",
       "2011": 4225089,
       "2012": 4287926,
       "2013": 4510538,
@@ -3597,7 +3597,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "Inwood-207 St",
+      "Station": "Inwood-207 St",
       "2011": 3079573,
       "2012": 2795992,
       "2013": 2897438,
@@ -3608,7 +3608,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "Lexington Av/59 St",
+      "Station": "Lexington Av/59 St",
       "2011": 20377141,
       "2012": 20628942,
       "2013": 21282767,
@@ -3619,7 +3619,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "Lexington Av-53 St/51 St",
+      "Station": "Lexington Av-53 St/51 St",
       "2011": 18948032,
       "2012": 19280036,
       "2013": 20262110,
@@ -3630,7 +3630,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "Lexington Av-63 St",
+      "Station": "Lexington Av-63 St",
       "2011": 4722939,
       "2012": 4566850,
       "2013": 4462467,
@@ -3641,7 +3641,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "Marble Hill-225 St",
+      "Station": "Marble Hill-225 St",
       "2011": 1476489,
       "2012": 1721707,
       "2013": 1725406,
@@ -3652,7 +3652,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "Prince St",
+      "Station": "Prince St",
       "2011": 5603783,
       "2012": 5508110,
       "2013": 5209433,
@@ -3663,7 +3663,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "Rector St",
+      "Station": "Rector St",
       "2011": 2636681,
       "2012": 3055453,
       "2013": 3398383,
@@ -3674,7 +3674,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "Rector St",
+      "Station": "Rector St",
       "2011": 2413512,
       "2012": 2053706,
       "2013": 1524110,
@@ -3685,7 +3685,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "Roosevelt Island",
+      "Station": "Roosevelt Island",
       "2011": 2114468,
       "2012": 2026567,
       "2013": 1948925,
@@ -3696,7 +3696,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "South Ferry/Whitehall St",
+      "Station": "South Ferry/Whitehall St",
       "2011": 9073709,
       "2012": 8123655,
       "2013": 6192660,
@@ -3707,7 +3707,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "Spring St",
+      "Station": "Spring St",
       "2011": 3887184,
       "2012": 3999949,
       "2013": 4123703,
@@ -3718,7 +3718,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "Spring St",
+      "Station": "Spring St",
       "2011": 3589809,
       "2012": 3718956,
       "2013": 3874428,
@@ -3729,7 +3729,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "Times Sq-42 St/42 St",
+      "Station": "Times Sq-42 St/42 St",
       "2011": 60604822,
       "2012": 62069437,
       "2013": 63617614,
@@ -3740,7 +3740,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "Wall St",
+      "Station": "Wall St",
       "2011": 7016078,
       "2012": 7034940,
       "2013": 7473489,
@@ -3751,7 +3751,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "Wall St",
+      "Station": "Wall St",
       "2011": 6526692,
       "2012": 6658687,
       "2013": 7231884,
@@ -3762,7 +3762,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "West 4 St-Washington Sq",
+      "Station": "West 4 St-Washington Sq",
       "2011": 12506322,
       "2012": 12727443,
       "2013": 13533369,
@@ -3773,7 +3773,7 @@
       "Borough": "Manhattan"
     },
     {
-      "Station (alphabetical by borough)": "103 St-Corona Plaza",
+      "Station": "103 St-Corona Plaza",
       "2011": 6095306,
       "2012": 6130376,
       "2013": 6314870,
@@ -3784,7 +3784,7 @@
       "Borough": "Queens"
     },
     {
-      "Station (alphabetical by borough)": "104 St",
+      "Station": "104 St",
       "2011": 523212,
       "2012": 507774,
       "2013": 516000,
@@ -3795,7 +3795,7 @@
       "Borough": "Queens"
     },
     {
-      "Station (alphabetical by borough)": "104 St",
+      "Station": "104 St",
       "2011": 782115,
       "2012": 755193,
       "2013": 779537,
@@ -3806,7 +3806,7 @@
       "Borough": "Queens"
     },
     {
-      "Station (alphabetical by borough)": "111 St",
+      "Station": "111 St",
       "2011": 3494533,
       "2012": 3473313,
       "2013": 3607926,
@@ -3817,7 +3817,7 @@
       "Borough": "Queens"
     },
     {
-      "Station (alphabetical by borough)": "111 St",
+      "Station": "111 St",
       "2011": 798886,
       "2012": 796622,
       "2013": 795820,
@@ -3828,7 +3828,7 @@
       "Borough": "Queens"
     },
     {
-      "Station (alphabetical by borough)": "111 St",
+      "Station": "111 St",
       "2011": 805590,
       "2012": 764882,
       "2013": 780300,
@@ -3839,7 +3839,7 @@
       "Borough": "Queens"
     },
     {
-      "Station (alphabetical by borough)": "121 St",
+      "Station": "121 St",
       "2011": 694567,
       "2012": 664855,
       "2013": 688985,
@@ -3850,7 +3850,7 @@
       "Borough": "Queens"
     },
     {
-      "Station (alphabetical by borough)": "169 St",
+      "Station": "169 St",
       "2011": 2781001,
       "2012": 2759602,
       "2013": 2834112,
@@ -3861,7 +3861,7 @@
       "Borough": "Queens"
     },
     {
-      "Station (alphabetical by borough)": "21 St",
+      "Station": "21 St",
       "2011": 364597,
       "2012": 469173,
       "2013": 422616,
@@ -3872,7 +3872,7 @@
       "Borough": "Queens"
     },
     {
-      "Station (alphabetical by borough)": "21 St-Queensbridge",
+      "Station": "21 St-Queensbridge",
       "2011": 2707275,
       "2012": 2654261,
       "2013": 2631860,
@@ -3883,7 +3883,7 @@
       "Borough": "Queens"
     },
     {
-      "Station (alphabetical by borough)": "30 Av",
+      "Station": "30 Av",
       "2011": 4340888,
       "2012": 4622323,
       "2013": 4776709,
@@ -3894,7 +3894,7 @@
       "Borough": "Queens"
     },
     {
-      "Station (alphabetical by borough)": "33 St-Rawson St",
+      "Station": "33 St-Rawson St",
       "2011": 3707015,
       "2012": 3752701,
       "2013": 3899003,
@@ -3905,7 +3905,7 @@
       "Borough": "Queens"
     },
     {
-      "Station (alphabetical by borough)": "36 Av",
+      "Station": "36 Av",
       "2011": 2246477,
       "2012": 2412794,
       "2013": 2462645,
@@ -3916,7 +3916,7 @@
       "Borough": "Queens"
     },
     {
-      "Station (alphabetical by borough)": "36 St",
+      "Station": "36 St",
       "2011": 1238985,
       "2012": 1257059,
       "2013": 1278109,
@@ -3927,7 +3927,7 @@
       "Borough": "Queens"
     },
     {
-      "Station (alphabetical by borough)": "39 Av",
+      "Station": "39 Av",
       "2011": 823763,
       "2012": 930291,
       "2013": 1012381,
@@ -3938,7 +3938,7 @@
       "Borough": "Queens"
     },
     {
-      "Station (alphabetical by borough)": "40 St-Lowery St",
+      "Station": "40 St-Lowery St",
       "2011": 3378636,
       "2012": 3393418,
       "2013": 3483507,
@@ -3949,7 +3949,7 @@
       "Borough": "Queens"
     },
     {
-      "Station (alphabetical by borough)": "46 St",
+      "Station": "46 St",
       "2011": 2964965,
       "2012": 2978233,
       "2013": 3014082,
@@ -3960,7 +3960,7 @@
       "Borough": "Queens"
     },
     {
-      "Station (alphabetical by borough)": "46 St-Bliss St",
+      "Station": "46 St-Bliss St",
       "2011": 4683092,
       "2012": 4638262,
       "2013": 4734334,
@@ -3971,7 +3971,7 @@
       "Borough": "Queens"
     },
     {
-      "Station (alphabetical by borough)": "52 St",
+      "Station": "52 St",
       "2011": 2117202,
       "2012": 2138307,
       "2013": 2182725,
@@ -3982,7 +3982,7 @@
       "Borough": "Queens"
     },
     {
-      "Station (alphabetical by borough)": "63 Dr-Rego Park",
+      "Station": "63 Dr-Rego Park",
       "2011": 4891415,
       "2012": 4998378,
       "2013": 5129203,
@@ -3993,7 +3993,7 @@
       "Borough": "Queens"
     },
     {
-      "Station (alphabetical by borough)": "65 St",
+      "Station": "65 St",
       "2011": 1098734,
       "2012": 1131591,
       "2013": 1124823,
@@ -4004,7 +4004,7 @@
       "Borough": "Queens"
     },
     {
-      "Station (alphabetical by borough)": "67 Av",
+      "Station": "67 Av",
       "2011": 2791494,
       "2012": 2770364,
       "2013": 2818350,
@@ -4015,7 +4015,7 @@
       "Borough": "Queens"
     },
     {
-      "Station (alphabetical by borough)": "69 St",
+      "Station": "69 St",
       "2011": 1649055,
       "2012": 1647057,
       "2013": 1671584,
@@ -4026,7 +4026,7 @@
       "Borough": "Queens"
     },
     {
-      "Station (alphabetical by borough)": "74-Bway/Jackson Hts-Roosevelt Av",
+      "Station": "74-Bway/Jackson Hts-Roosevelt Av",
       "2011": 16377496,
       "2012": 16366669,
       "2013": 16864938,
@@ -4037,7 +4037,7 @@
       "Borough": "Queens"
     },
     {
-      "Station (alphabetical by borough)": "75 Av",
+      "Station": "75 Av",
       "2011": 1171380,
       "2012": 1130707,
       "2013": 1155836,
@@ -4048,7 +4048,7 @@
       "Borough": "Queens"
     },
     {
-      "Station (alphabetical by borough)": "75 St-Elderts Ln",
+      "Station": "75 St-Elderts Ln",
       "2011": 1128911,
       "2012": 1107947,
       "2013": 1138544,
@@ -4059,7 +4059,7 @@
       "Borough": "Queens"
     },
     {
-      "Station (alphabetical by borough)": "80 St",
+      "Station": "80 St",
       "2011": 1283827,
       "2012": 1294099,
       "2013": 1310413,
@@ -4070,7 +4070,7 @@
       "Borough": "Queens"
     },
     {
-      "Station (alphabetical by borough)": "82 St-Jackson Hts",
+      "Station": "82 St-Jackson Hts",
       "2011": 5163208,
       "2012": 5013810,
       "2013": 5139172,
@@ -4081,7 +4081,7 @@
       "Borough": "Queens"
     },
     {
-      "Station (alphabetical by borough)": "85 St-Forest Pkwy",
+      "Station": "85 St-Forest Pkwy",
       "2011": 1138842,
       "2012": 1125639,
       "2013": 1157863,
@@ -4092,7 +4092,7 @@
       "Borough": "Queens"
     },
     {
-      "Station (alphabetical by borough)": "88 St",
+      "Station": "88 St",
       "2011": 805054,
       "2012": 792615,
       "2013": 808822,
@@ -4103,7 +4103,7 @@
       "Borough": "Queens"
     },
     {
-      "Station (alphabetical by borough)": "90 St-Elmhurst Av",
+      "Station": "90 St-Elmhurst Av",
       "2011": 5480782,
       "2012": 5428872,
       "2013": 5513135,
@@ -4114,7 +4114,7 @@
       "Borough": "Queens"
     },
     {
-      "Station (alphabetical by borough)": "Aqueduct Racetrack",
+      "Station": "Aqueduct Racetrack",
       "2011": 54183,
       "2012": 0,
       "2013": 213601,
@@ -4125,7 +4125,7 @@
       "Borough": "Queens"
     },
     {
-      "Station (alphabetical by borough)": "Aqueduct-North Conduit Av",
+      "Station": "Aqueduct-North Conduit Av",
       "2011": 474915,
       "2012": 890505,
       "2013": 698115,
@@ -4136,7 +4136,7 @@
       "Borough": "Queens"
     },
     {
-      "Station (alphabetical by borough)": "Astoria Blvd",
+      "Station": "Astoria Blvd",
       "2011": 3850546,
       "2012": 3871213,
       "2013": 3962838,
@@ -4147,7 +4147,7 @@
       "Borough": "Queens"
     },
     {
-      "Station (alphabetical by borough)": "Astoria-Ditmars Blvd",
+      "Station": "Astoria-Ditmars Blvd",
       "2011": 5203409,
       "2012": 5233305,
       "2013": 5405084,
@@ -4158,7 +4158,7 @@
       "Borough": "Queens"
     },
     {
-      "Station (alphabetical by borough)": "Beach 105 St",
+      "Station": "Beach 105 St",
       "2011": 80580,
       "2012": 82088,
       "2013": 48916,
@@ -4169,7 +4169,7 @@
       "Borough": "Queens"
     },
     {
-      "Station (alphabetical by borough)": "Beach 25 St",
+      "Station": "Beach 25 St",
       "2011": 501037,
       "2012": 437602,
       "2013": 267585,
@@ -4180,7 +4180,7 @@
       "Borough": "Queens"
     },
     {
-      "Station (alphabetical by borough)": "Beach 36 St",
+      "Station": "Beach 36 St",
       "2011": 192676,
       "2012": 217880,
       "2013": 143400,
@@ -4191,7 +4191,7 @@
       "Borough": "Queens"
     },
     {
-      "Station (alphabetical by borough)": "Beach 44 St",
+      "Station": "Beach 44 St",
       "2011": 225250,
       "2012": 161946,
       "2013": 91331,
@@ -4202,7 +4202,7 @@
       "Borough": "Queens"
     },
     {
-      "Station (alphabetical by borough)": "Beach 60 St",
+      "Station": "Beach 60 St",
       "2011": 555937,
       "2012": 588970,
       "2013": 406698,
@@ -4213,7 +4213,7 @@
       "Borough": "Queens"
     },
     {
-      "Station (alphabetical by borough)": "Beach 67 St-Arverne By The Sea",
+      "Station": "Beach 67 St-Arverne By The Sea",
       "2011": 681006,
       "2012": 572418,
       "2013": 357807,
@@ -4224,7 +4224,7 @@
       "Borough": "Queens"
     },
     {
-      "Station (alphabetical by borough)": "Beach 90 St",
+      "Station": "Beach 90 St",
       "2011": 387012,
       "2012": 305397,
       "2013": 194416,
@@ -4235,7 +4235,7 @@
       "Borough": "Queens"
     },
     {
-      "Station (alphabetical by borough)": "Beach 98 St",
+      "Station": "Beach 98 St",
       "2011": 198503,
       "2012": 193332,
       "2013": 100594,
@@ -4246,7 +4246,7 @@
       "Borough": "Queens"
     },
     {
-      "Station (alphabetical by borough)": "Briarwood-Van Wyck Blvd",
+      "Station": "Briarwood-Van Wyck Blvd",
       "2011": 1730276,
       "2012": 1563242,
       "2013": 1427813,
@@ -4257,7 +4257,7 @@
       "Borough": "Queens"
     },
     {
-      "Station (alphabetical by borough)": "Broad Channel",
+      "Station": "Broad Channel",
       "2011": 88837,
       "2012": 75969,
       "2013": 36849,
@@ -4268,7 +4268,7 @@
       "Borough": "Queens"
     },
     {
-      "Station (alphabetical by borough)": "Broadway",
+      "Station": "Broadway",
       "2011": 4007018,
       "2012": 4161120,
       "2013": 4325297,
@@ -4279,7 +4279,7 @@
       "Borough": "Queens"
     },
     {
-      "Station (alphabetical by borough)": "Court Sq",
+      "Station": "Court Sq",
       "2011": 6334869,
       "2012": 5340581,
       "2013": 6072768,
@@ -4290,7 +4290,7 @@
       "Borough": "Queens"
     },
     {
-      "Station (alphabetical by borough)": "Elmhurst Av",
+      "Station": "Elmhurst Av",
       "2011": 4338857,
       "2012": 4344648,
       "2013": 4343633,
@@ -4301,7 +4301,7 @@
       "Borough": "Queens"
     },
     {
-      "Station (alphabetical by borough)": "Far Rockaway-Mott Av",
+      "Station": "Far Rockaway-Mott Av",
       "2011": 1426835,
       "2012": 1217871,
       "2013": 806025,
@@ -4312,7 +4312,7 @@
       "Borough": "Queens"
     },
     {
-      "Station (alphabetical by borough)": "Flushing-Main St",
+      "Station": "Flushing-Main St",
       "2011": 18967751,
       "2012": 19034789,
       "2013": 19102434,
@@ -4323,7 +4323,7 @@
       "Borough": "Queens"
     },
     {
-      "Station (alphabetical by borough)": "Forest Av",
+      "Station": "Forest Av",
       "2011": 1172881,
       "2012": 1134938,
       "2013": 1179301,
@@ -4334,7 +4334,7 @@
       "Borough": "Queens"
     },
     {
-      "Station (alphabetical by borough)": "Forest Hills-71 Av",
+      "Station": "Forest Hills-71 Av",
       "2011": 8316825,
       "2012": 8342293,
       "2013": 8573480,
@@ -4345,7 +4345,7 @@
       "Borough": "Queens"
     },
     {
-      "Station (alphabetical by borough)": "Fresh Pond Rd",
+      "Station": "Fresh Pond Rd",
       "2011": 1617252,
       "2012": 1590304,
       "2013": 1534754,
@@ -4356,7 +4356,7 @@
       "Borough": "Queens"
     },
     {
-      "Station (alphabetical by borough)": "Grand Av-Newtown",
+      "Station": "Grand Av-Newtown",
       "2011": 5721038,
       "2012": 5741626,
       "2013": 5832568,
@@ -4367,7 +4367,7 @@
       "Borough": "Queens"
     },
     {
-      "Station (alphabetical by borough)": "Howard Beach-JFK Airport",
+      "Station": "Howard Beach-JFK Airport",
       "2011": 928529,
       "2012": 1074516,
       "2013": 1626984,
@@ -4378,7 +4378,7 @@
       "Borough": "Queens"
     },
     {
-      "Station (alphabetical by borough)": "Hunters Point Av",
+      "Station": "Hunters Point Av",
       "2011": 1655252,
       "2012": 1704114,
       "2013": 1710103,
@@ -4389,7 +4389,7 @@
       "Borough": "Queens"
     },
     {
-      "Station (alphabetical by borough)": "Jamaica Center-Parsons-Archer",
+      "Station": "Jamaica Center-Parsons-Archer",
       "2011": 12147163,
       "2012": 12204423,
       "2013": 12507906,
@@ -4400,7 +4400,7 @@
       "Borough": "Queens"
     },
     {
-      "Station (alphabetical by borough)": "Jamaica-179 St",
+      "Station": "Jamaica-179 St",
       "2011": 6818728,
       "2012": 6767423,
       "2013": 6868439,
@@ -4411,7 +4411,7 @@
       "Borough": "Queens"
     },
     {
-      "Station (alphabetical by borough)": "Jamaica-Van Wyck",
+      "Station": "Jamaica-Van Wyck",
       "2011": 1527249,
       "2012": 1552178,
       "2013": 1565998,
@@ -4422,7 +4422,7 @@
       "Borough": "Queens"
     },
     {
-      "Station (alphabetical by borough)": "Junction Blvd",
+      "Station": "Junction Blvd",
       "2011": 6963489,
       "2012": 6784942,
       "2013": 6816700,
@@ -4433,7 +4433,7 @@
       "Borough": "Queens"
     },
     {
-      "Station (alphabetical by borough)": "Kew Gardens-Union Turnpike",
+      "Station": "Kew Gardens-Union Turnpike",
       "2011": 8179749,
       "2012": 8296905,
       "2013": 8609185,
@@ -4444,7 +4444,7 @@
       "Borough": "Queens"
     },
     {
-      "Station (alphabetical by borough)": "Mets-Willets Point",
+      "Station": "Mets-Willets Point",
       "2011": 1729243,
       "2012": 1693024,
       "2013": 1902121,
@@ -4455,7 +4455,7 @@
       "Borough": "Queens"
     },
     {
-      "Station (alphabetical by borough)": "Middle Village-Metropolitan Av",
+      "Station": "Middle Village-Metropolitan Av",
       "2011": 1220377,
       "2012": 1189616,
       "2013": 1200171,
@@ -4466,7 +4466,7 @@
       "Borough": "Queens"
     },
     {
-      "Station (alphabetical by borough)": "Northern Blvd",
+      "Station": "Northern Blvd",
       "2011": 2184353,
       "2012": 2214223,
       "2013": 2239136,
@@ -4477,7 +4477,7 @@
       "Borough": "Queens"
     },
     {
-      "Station (alphabetical by borough)": "Ozone Park-Lefferts Blvd",
+      "Station": "Ozone Park-Lefferts Blvd",
       "2011": 2286542,
       "2012": 2246624,
       "2013": 2262961,
@@ -4488,7 +4488,7 @@
       "Borough": "Queens"
     },
     {
-      "Station (alphabetical by borough)": "Parsons Blvd",
+      "Station": "Parsons Blvd",
       "2011": 1920497,
       "2012": 1950852,
       "2013": 2035948,
@@ -4499,7 +4499,7 @@
       "Borough": "Queens"
     },
     {
-      "Station (alphabetical by borough)": "Queens Plaza",
+      "Station": "Queens Plaza",
       "2011": 2550906,
       "2012": 2747366,
       "2013": 2855006,
@@ -4510,7 +4510,7 @@
       "Borough": "Queens"
     },
     {
-      "Station (alphabetical by borough)": "Queensboro Plaza",
+      "Station": "Queensboro Plaza",
       "2011": 3047146,
       "2012": 3350219,
       "2013": 3569290,
@@ -4521,7 +4521,7 @@
       "Borough": "Queens"
     },
     {
-      "Station (alphabetical by borough)": "Rockaway Blvd",
+      "Station": "Rockaway Blvd",
       "2011": 2373967,
       "2012": 2446937,
       "2013": 2637100,
@@ -4532,7 +4532,7 @@
       "Borough": "Queens"
     },
     {
-      "Station (alphabetical by borough)": "Rockaway Park-Beach 116 St",
+      "Station": "Rockaway Park-Beach 116 St",
       "2011": 286902,
       "2012": 251080,
       "2013": 135956,
@@ -4543,7 +4543,7 @@
       "Borough": "Queens"
     },
     {
-      "Station (alphabetical by borough)": "Seneca Av",
+      "Station": "Seneca Av",
       "2011": 758144,
       "2012": 716729,
       "2013": 711011,
@@ -4554,7 +4554,7 @@
       "Borough": "Queens"
     },
     {
-      "Station (alphabetical by borough)": "Steinway St",
+      "Station": "Steinway St",
       "2011": 4930914,
       "2012": 4866245,
       "2013": 4798179,
@@ -4565,7 +4565,7 @@
       "Borough": "Queens"
     },
     {
-      "Station (alphabetical by borough)": "Sutphin Blvd",
+      "Station": "Sutphin Blvd",
       "2011": 1470022,
       "2012": 1468970,
       "2013": 1550363,
@@ -4576,7 +4576,7 @@
       "Borough": "Queens"
     },
     {
-      "Station (alphabetical by borough)": "Sutphin Blvd-Archer Av-JFK Airport",
+      "Station": "Sutphin Blvd-Archer Av-JFK Airport",
       "2011": 6839255,
       "2012": 6975316,
       "2013": 7303038,
@@ -4587,7 +4587,7 @@
       "Borough": "Queens"
     },
     {
-      "Station (alphabetical by borough)": "Vernon Blvd-Jackson Av",
+      "Station": "Vernon Blvd-Jackson Av",
       "2011": 3170128,
       "2012": 3357030,
       "2013": 3726974,
@@ -4598,7 +4598,7 @@
       "Borough": "Queens"
     },
     {
-      "Station (alphabetical by borough)": "Woodhaven Blvd",
+      "Station": "Woodhaven Blvd",
       "2011": 1357800,
       "2012": 1328319,
       "2013": 1398536,
@@ -4609,7 +4609,7 @@
       "Borough": "Queens"
     },
     {
-      "Station (alphabetical by borough)": "Woodhaven Blvd",
+      "Station": "Woodhaven Blvd",
       "2011": 7241776,
       "2012": 7157320,
       "2013": 7157254,
@@ -4620,7 +4620,7 @@
       "Borough": "Queens"
     },
     {
-      "Station (alphabetical by borough)": "Woodside-61 St",
+      "Station": "Woodside-61 St",
       "2011": 5382589,
       "2012": 5273308,
       "2013": 5330760,

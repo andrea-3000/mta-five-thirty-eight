@@ -34,37 +34,26 @@ $(document).ready(function() {
     }
   });
 
-  $('#dataTable').DataTable({
-    'ajax': 'data/ridership.json',
-    columns: [{
-        title: "Station (alphabetical by borough)"
+  $('#data-table').DataTable( {
+      dom: "Bfrtip",
+      order: [7, 'asc'],
+      ajax: {
+          url: "data/ridership.json",
+          // type: 'POST'
       },
-      {
-        title: "2011"
-      },
-      {
-        title: "2012"
-      },
-      {
-        title: "2013."
-      },
-      {
-        title: "2014"
-      },
-      {
-        title: "2015"
-      },
-      {
-        title: "2016"
-      },
-      {
-        title: "2016 Rank"
-      },
-      {
-        title: "Borough"
-      },
-    ]
-  });
+      columns: [
+          { data: "Station" },
+          { data: "2011" },
+          { data: "2012" },
+          { data: "2013" },
+          { data: "2014" },
+          { data: "2015" },
+          { data: "2016" },
+          { data: "2016 Rank" },
+          { data: "Borough" },
+      ],
+      select: true,
+  } );
 
   // BUILD MTA FARE
   $.ajax({
