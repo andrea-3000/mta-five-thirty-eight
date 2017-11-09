@@ -201,10 +201,6 @@ function chartFareData() {
         fontWeight: 'bold'
       }
     },
-    subtitle: {
-      // text: 'Source: http://web.mta.info/nyct/facts/ffsubway.htm'
-      text: 'blahblahblah'
-    },
     yAxis: {
       title: {
         text: 'Single-Ride Cost (USD)',
@@ -272,10 +268,6 @@ function chartGlobalRidership() {
       style: {
         fontWeight: 'bold'
       }
-    },
-    subtitle: {
-      // text: 'Source: http://web.mta.info/nyct/facts/ffsubway.htm'
-      text: 'blahblahblah'
     },
     yAxis: {
       title: {
