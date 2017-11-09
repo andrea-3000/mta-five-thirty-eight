@@ -160,3 +160,12 @@ a:hover {
 .chart {
   margin: 20px 0;
 }
+
+caption, th, .stationColumn {
+  caption-side: top;
+  font-family: 'Atlas Grotesk Web';
+}
+
+.bodyColumn {
+  font-family: 'Decima Mono Pro';
+}

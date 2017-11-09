@@ -61,7 +61,9 @@ $(document).ready(function() {
       responsive: true,
       columnDefs: [
           { responsivePriority: 1, targets: 0 },
-          { responsivePriority: 2, targets: -2 }
+          { responsivePriority: 2, targets: -2 },
+          { className: "bodyColumn", "targets": [1, 2, 3, 4, 5, 6, 7, 8] },
+          { className: "stationColumn", "targets": [0] }
       ]
   } );
 
