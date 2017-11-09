@@ -53,6 +53,7 @@ $(document).ready(function() {
           { data: "Borough" },
       ],
       select: true,
+      responsive: true,
   } );
 
   // BUILD MTA FARE
