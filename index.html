@@ -12,8 +12,8 @@
   <meta name="author" content="SitePoint">
 
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
-  <link rel="stylesheet" type="text/css" href="//cdn.datatables.net/1.10.16/css/jquery.dataTables.css">
-  <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/responsive/2.2.0/css/responsive.dataTables.min.css">
+  <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.16/css/dataTables.bootstrap4.min.css">
+  <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/responsive/2.2.0/css/responsive.bootstrap4.min.css">
 
   <link rel="stylesheet" href="fonts/fontstyles.css">
   <link rel="stylesheet" href="css/styles.css">
@@ -93,7 +93,7 @@
         subway rails).<sup><a href="http://web.mta.info/nyct/subway/howto_sub.htm">3</a></sup> There are many factors that may explain the decrease in ridership over the past two years, but one direct correlation can be made between ridership and recent fare hikes. The chart below describes the increase in price over the years (not accounting for inflation).</p>
       <div class="chart" id="fare-data"></div>
       <p>The MTA has a long way to go to maintain and rebuild its ridership. NYC went through the aptly-named "Summer of Hell" as the MTA performed eight weeks of emergency track repairs after Governor Cuomo declared a State of Emergency this summer.<sup><a href="https://www.nytimes.com/2017/09/01/nyregion/summer-was-not-so-hellish-for-commuters-at-penn-station.html?mcubz=0&_r=0">4</a></sup> Hopefully the repairs will be enough to convince riders not to find alternative commuting options.</p>
-      <table id="data-table" class="display">
+      <table id="data-table" class="table dt-responsive" cellspacing="0">
         <thead>
           <tr>
             <th>Station</th>
@@ -122,9 +122,11 @@
   <script src="https://code.highcharts.com/modules/series-label.js"></script>
   <script src="https://code.highcharts.com/modules/exporting.js"></script>
 
-  <script src="https://cdn.datatables.net/responsive/2.2.0/js/dataTables.responsive.min.js"></script>
-
   <script type="text/javascript" charset="utf8" src="//cdn.datatables.net/1.10.16/js/jquery.dataTables.js"></script>
+  <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.16/js/dataTables.bootstrap4.min.js"></script>
+  <script src="https://cdn.datatables.net/responsive/2.2.0/js/dataTables.responsive.min.js"></script>
+  <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/responsive/2.2.0/js/responsive.bootstrap4.min.js"></script>
+
   <script src="js/scripts.js"></script>
 </body>
 

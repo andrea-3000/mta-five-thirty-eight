@@ -34,26 +34,35 @@ $(document).ready(function() {
     }
   });
 
+  $('#example').on( 'click', 'tbody td:not(.child), tbody span.dtr-data', function (e) {
+    // Ignore the Responsive control and checkbox columns
+    if ( $(this).hasClass( 'control' )) {
+        return;
+    }
+  } );
+
   $('#data-table').DataTable( {
-      dom: "Bfrtip",
       order: [7, 'asc'],
       ajax: {
           url: "data/ridership.json",
-          // type: 'POST'
       },
       columns: [
-          { data: "Station" },
-          { data: "2011" },
-          { data: "2012" },
-          { data: "2013" },
-          { data: "2014" },
-          { data: "2015" },
-          { data: "2016" },
-          { data: "2016 Rank" },
-          { data: "Borough" },
+        { data: "Station" },
+        { data: "2011" },
+        { data: "2012" },
+        { data: "2013" },
+        { data: "2014" },
+        { data: "2015" },
+        { data: "2016" },
+        { data: "2016 Rank" },
+        { data: "Borough" },
       ],
       select: true,
       responsive: true,
+      columnDefs: [
+          { responsivePriority: 1, targets: 0 },
+          { responsivePriority: 2, targets: -2 }
+      ]
   } );
 
   // BUILD MTA FARE
