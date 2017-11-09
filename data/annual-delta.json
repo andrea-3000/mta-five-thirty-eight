@@ -1,0 +1,42 @@
+﻿[
+ {
+   "Borough": "Brooklyn",
+   "twelve": 4571232,
+   "thirteen": 15523978,
+   "fourteen": 10332661,
+   "fifteen": 4823755,
+   "sixteen": -3008378
+ },
+ {
+   "Borough": "Bronx",
+   "twelve": 2072374,
+   "thirteen": 4082295,
+   "fourteen": 3398860,
+   "fifteen": -192694,
+   "sixteen": 761151
+ },
+ {
+   "Borough": "Manhattan",
+   "twelve": 7282871,
+   "thirteen": 28297529,
+   "fourteen": 24960142,
+   "fifteen": 5029404,
+   "sixteen": -3937801
+ },
+ {
+   "Borough": "Queens",
+   "twelve": 387,
+   "thirteen": 5065727,
+   "fourteen": 4990699,
+   "fifteen": 1644794,
+   "sixteen": 452828
+ },
+ {
+   "Borough": "System Total",
+   "twelve": 14147593,
+   "thirteen": 52973449,
+   "fourteen": 43731907,
+   "fifteen": 11277798,
+   "sixteen": -5750619
+ }
+]

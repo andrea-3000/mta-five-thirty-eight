@@ -1,0 +1,162 @@
+body {
+  font-family: 'Arnhem Pro Nor';
+  font-weight: normal;
+  font-style: normal;
+}
+
+h5 a {
+  color: black;
+  text-decoration: none;
+  border-bottom: 2px solid black;
+}
+
+h5 a:hover {
+  text-decoration: none;
+  color: #adadad;
+  border-bottom: 1.5px solid #adadad;
+}
+
+p {
+  font-size: 18px;
+}
+
+.navbar {
+  padding-right: 0px !important;
+  padding-left: 0px !important;
+}
+
+.site-logo {
+  margin-top: 15px;
+}
+
+.main-nav {
+  border-bottom: 2px solid black;
+}
+
+.search {
+  position: absolute;
+  right: 0px;
+}
+
+.search .search-button {
+  padding: 5px;
+  padding: .3125rem;
+  border: 1px solid #3c3c3c;
+  -webkit-border-radius: 0;
+  border-radius: 0;
+  background-color: transparent;
+  cursor: pointer;
+  position: relative;
+  width: 24px;
+  height: 24px;
+  z-index: 3;
+  -webkit-transition: background-color .2s ease-in-out;
+  transition: background-color .2s ease-in-out;
+  background-size: 10px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 -64 1010.843 1024' preserveAspectRatio='xMinYMid'%3E%3Cpath fill='%23000' d='M837.922,354.961C837.922,123.925,649.997-64,418.961-64S0,123.925,0,354.961 c0,231.036,187.925,418.961,418.961,418.961S837.922,585.997,837.922,354.961z M418.961,67.97 c158.276,0,286.903,128.715,286.991,286.991c0,158.276-128.715,286.991-286.991,286.991c-158.276,0-286.991-128.803-286.991-286.991 C131.97,196.685,260.685,67.97,418.961,67.97L418.961,67.97z M944.818,959.999c17.244,0,34.4-6.686,47.421-20.059 c25.338-26.13,24.722-67.921-1.408-93.347l-274.498-266.58c-26.042-25.25-67.833-24.722-93.347,1.408 c-25.338,26.13-24.722,67.921,1.408,93.347l274.498,266.58C911.65,953.841,928.278,960,944.818,959.999L944.818,959.999z'/%3E%3C/svg%3E")
+}
+
+.search .search-button:focus {
+  outline: 0
+}
+
+.search .search-button:hover {
+  background-color: black;
+  background-size: 10px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 -64 1010.843 1024' preserveAspectRatio='xMinYMid'%3E%3Cpath fill='#ffffff' d='M837.922,354.961C837.922,123.925,649.997-64,418.961-64S0,123.925,0,354.961 c0,231.036,187.925,418.961,418.961,418.961S837.922,585.997,837.922,354.961z M418.961,67.97 c158.276,0,286.903,128.715,286.991,286.991c0,158.276-128.715,286.991-286.991,286.991c-158.276,0-286.991-128.803-286.991-286.991 C131.97,196.685,260.685,67.97,418.961,67.97L418.961,67.97z M944.818,959.999c17.244,0,34.4-6.686,47.421-20.059 c25.338-26.13,24.722-67.921-1.408-93.347l-274.498-266.58c-26.042-25.25-67.833-24.722-93.347,1.408 c-25.338,26.13-24.722,67.921,1.408,93.347l274.498,266.58C911.65,953.841,928.278,960,944.818,959.999L944.818,959.999z'/%3E%3C/svg%3E")
+}
+
+.espn-logo {
+  transition: filter .2s ease-in-out;
+  -webkit-filter: grayscale(0%); /* Ch 23+, Saf 6.0+, BB 10.0+ */
+  filter: grayscale(0%); /* FF 35+ */
+}
+
+.espn-logo:hover {
+  -webkit-filter: grayscale(100%); /* Ch 23+, Saf 6.0+, BB 10.0+ */
+  filter: grayscale(100%); /* FF 35+ */
+}
+
+.sub-nav {
+  font-family: 'Atlas Grotesk Web';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 14px;
+  line-height: 1;
+}
+
+.active a {
+  color: black !important;
+  font-family: 'Atlas Grotesk Web';
+  font-weight: bold;
+}
+
+.sub-nav a {
+  color: #adadad;
+  padding-left: 0px !important;
+  padding-right: 32px !important;
+}
+
+.sub-nav a:hover {
+  color: black;
+}
+
+.content {}
+
+.caption {
+  margin: 5px;
+  color: #adadad;
+  font-family: 'Atlas Grotesk Web';
+  font-size: 10px;
+}
+
+h1 {
+  font-family: 'Atlas Grotesk Web';
+  font-weight: bold;
+  font-style: normal;
+}
+
+h5 {
+  font-family: 'Decima Mono Pro';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 12px;
+  line-height: 1.4;
+  color: #adadad;
+}
+
+sup a {
+  font-family: 'Decima Mono Pro';
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: none;
+  color: #008fd5;
+}
+
+sup a:hover {
+  text-decoration: none;
+  color: #ED4321;
+}
+
+a {
+  text-decoration: none;
+  color: #008fd5;
+}
+
+a:hover {
+  color: #008fd5;
+}
+
+.mini-bio {
+  font-family: 'Atlas Grotesk Web';
+  font-style: italic;
+  font-size: 10px;
+}
+
+.chart {
+  margin: 20px 0;
+}

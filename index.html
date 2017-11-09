@@ -1,0 +1,112 @@
+<!doctype html>
+
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+
+  <title>Subway Ridership in NYC is Decreasing | FiveThirtyEight</title>
+  <link rel="icon" type="image/png" href="https://s0.wp.com/wp-content/themes/vip/espn-fivethirtyeight/assets/images/favicon.ico?v=1.0.6">
+  <meta name="description" content="The HTML5 Herald">
+  <meta name="author" content="SitePoint">
+
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
+  <link rel="stylesheet" type="text/css" href="//cdn.datatables.net/1.10.16/css/jquery.dataTables.css">
+
+  <link rel="stylesheet" href="fonts/fontstyles.css">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+
+<body>
+  <div class="container">
+    <!-- UGH NAVBAR -->
+    <div class="header">
+      <nav class="main-nav navbar navbar-expand-md">
+        <a class="navbar-brand" href="#">
+          <svg xmlns="http://www.w3.org/2000/svg" width="175" viewBox="0 318.275 1280 163.451" class="site-logo"><path d="M0 318.275h76.009v24.323H27.363v30.403h45.606v24.323H27.363v51.687H0zm94.252 109.453h15.202v-54.727H94.252v-24.323h39.525v79.05h12.162v21.283H94.252v-21.283zm15.202-109.453h24.323v24.323h-24.323v-24.323zm434.774
+          109.453h15.202v-54.727h-15.202v-24.323h39.525v79.05h12.162v21.283h-51.686v-21.283zm15.202-109.453h24.323v24.323H559.43v-24.323zm401.33 109.453h15.202v-54.727H960.76v-24.323h39.525v79.05h12.161v21.283H960.76v-21.283zm15.202-109.453h24.323v24.323h-24.323v-24.323zm-811.781
+          82.09v-51.687h24.323v45.606l12.161 30.343h3.04l12.162-30.343v-45.606h24.323v51.687l-21.283 48.646h-33.444zm173.301 48.646h-41.288c-24.901 0-37.762-11.584-37.762-35.968v-27.88c0-23.016 13.074-39.525 39.525-39.525 28.367 0 39.525 15.415 39.525 42.565v21.283h-51.686v5.29c0
+          7.966 3.04 12.952 10.398 12.952h41.288v21.283zm-51.686-60.808h24.323v-4.713c0-7.966-3.223-16.57-12.557-16.57-8.483 0-11.766 6.689-11.766 16.57v4.713zm94.251-45.605h-30.403v-24.323h88.171v24.323h-30.404v106.413h-27.364zm234.11 106.413V348.678h24.323v12.161c3.466-7.449
+          11.401-12.161 21.952-12.161h8.452v24.323h-18.242c-8.635 0-12.161 2.858-12.161 11.857v64.152h-24.324zm130.736 0h-14.715c-21.617 0-30.89-11.219-30.89-33.9v-42.109h-18.242v-24.323h18.242v-21.283h24.323v21.283h21.283v24.323H723.61l-.213 42.353c0 6.75
+          2.828 12.374 11.128 12.374h10.368v21.282zm535.107 0h-14.715c-21.617 0-30.89-11.219-30.89-33.9v-42.109h-18.242v-24.323h18.242v-21.283h24.323v21.283H1280v24.323h-21.283l-.213 42.353c0 6.75 2.828 12.374 11.128 12.374H1280v21.282zm-506.953 32.714l14.016-28.883-23.928-52.477v-51.687h24.323v45.606l12.162
+          30.404h3.04l12.162-30.404v-45.606h24.323v51.687l-37.397 81.36zm90.421-163.45h76.009v24.323h-48.646v27.363h45.606v24.323h-45.606v30.404h48.646v24.323h-76.009zm161.14 145.938v-6.081h48.95c6.081 0 8.817-.547 8.817-3.861v-1.034c0-3.284-2.767-4.226-8.817-4.226h-39.829v-15.202l15.202-15.202c-16.084-4.5-24.323-16.509-24.323-33.444v-3.04c0-22.985
+          13.499-36.485 42.565-36.485a66.672 66.672 0 0 1 18.09 3.04l12.313-18.242 15.202 9.121-12.161 18.242c4.165 5.868 9.121 14.989 9.121 24.323v3.04c0 21.283-10.033 32.41-36.484 33.444l-9.121 12.161h18.242c17.999 0 27.363 7.966 27.363 23.35v.334c0 15.384-8.239
+          24.962-26.208 24.962h-39.525c-13.043.002-19.397-5.593-19.397-15.2zm57.767-76.01v-9.121c0-10.033-4.044-12.161-15.202-12.161-11.158 0-15.202 2.128-15.202 12.161v9.121c0 10.033 4.226 12.162 15.202 12.162s15.202-2.128 15.202-12.162zm72.969 60.808h-24.323V318.275h24.323v42.565c3.466-8.118
+          10.337-12.161 21.283-12.161 19.033 0 27.363 9.364 27.363 32.714v67.618h-24.323v-63.848c0-9.516-3.253-15.202-12.162-15.202-8.908 0-12.161 5.686-12.161 15.202v63.848zm-678.004 0h-24.323V318.275h24.323v42.565c3.466-8.118 11.888-12.161 22.772-12.161
+          19.033 0 25.874 9.516 25.874 32.867v67.466h-24.323v-66.888c0-9.516-3.253-13.499-12.161-13.499s-12.162 6.871-12.162 16.388v63.998z"/>
+          </svg>
+        </a>
+        <div class="collapse navbar-collapse search">
+          <button aria-label="Search" class="search-button" id="search-button">
+          </button>
+          <a class="espn-logo" href="#"><img style="height:20px" src="images/espn.png"/></a>
+        </div>
+      </nav>
+      <nav class="sub-nav navbar navbar-expand-md">
+        <div class="collapse navbar-collapse" id="navbarsExampleDefault">
+          <ul class="navbar-nav mr-auto">
+            <li class="nav-item">
+              <a class="nav-link" href="#">Politics</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Sports</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Science & Health</a>
+            </li>
+            <li class="nav-item active">
+              <a class="nav-link" href="#">Economics</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Culture</a>
+            </li>
+          </ul>
+        </div>
+      </nav>
+    </div>
+
+    <br />
+    <!-- CONTENT CONTENT -->
+    <!-- <div class="row"> -->
+      <div class="sm-col-6 md-col-6 lg-col-6 content">
+        <h5 class="timestamp">Nov. 6, 2017 AT WAY PAST:ANNIE'S BEDTIME AM</h5>
+        <h1 class="title">Subway Ridership in NYC Decreases as Fares Increase</h1>
+        <br />
+        <h5 class="byline">By <a href="#">Andrea Gonzales</a></h5>
+        <h5 class="filing">Filed under <a href="#">New York</a></h5>
+        <h5 class="filing">Check out the <a href="#">GitHub</a></h5>
+        <br />
+        <div class="img-cap">
+          <img class="img-fluid" src="https://i.pinimg.com/736x/6a/c6/15/6ac61563171077c5833a9bd7fcb27253--blur-photography-new-york-subway.jpg" />
+          <h6 class="caption">A set of subway turnstiles.</h6>
+        </div>
+        <br />
+        <p>The NYC subway system is one of the largest in the world. It's one of the oldest public transportation systems and well-known for operating every hour of the day, every day of the year. While it ranks #7 in annual ridership, it is the largest system by stations, with 472 in service today.<sup><a href="#">1</a></sup></p>
+        <p></p>
+        <div class="chart" id="global-ridership"></div>
+        <p>Subway ridership is defined by the MTA as passengers who enter the subway system; this includes passengers who transfer from buses, and excludes NYC Transit Employees and passengers that exit the subway or have an out-of-station transfer.<sup><a href="#">1</a></sup> The chart below shows the fluctuation in annual ridership from 2011-2016.</p>
+        <p>Subway ridership is defined by the MTA as all passengers excluding NYC Transit Employees who enter the subway system. This includes passengers who transfer from buses, and excludes passengers that exit the subway or have an out-of-station transfer.<sup><a href="#">1</a></sup></p>
+        <div class="chart" id="annual-delta"></div>
+        <p>Despite the projected population increase, it seems that since 2013, the annual ridership has decreased across all the boroughs (Staten Island has a railway, but isn't considered a part of the NYC subway system as it has no connections to other subway rails).<sup><a href="#">1</a></sup> There are many factors that may explain the decrease in ridership over the past two years, but one direct correlation can be made between ridership and recent fare hikes. The chart below describes the increase in price over the years (not accounting for inflation).</p>
+        <div class="chart" id="fare-data"></div>
+        <p>The MTA has a long way to go to maintain and rebuild its ridership. NYC went through the BLANK named "Summer of Hell" as the MTA performed eight weeks of emergency track repairs after Governor Cuomo declared a State of Emergency this summer. Hopefully the repairs will be enough to convince riders not to find alternative commuting options. <sup><a href="#">1</a></sup></p>
+        <!-- <table id="dataTable" class="display"></table> -->
+        <p class="mini-bio">Andrea Gonzales is a student at UNC-Chapel Hill. She's very tired.</p>
+      </div>
+    <!-- </div> -->
+  </div>
+
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>
+
+  <script src="https://code.highcharts.com/highcharts.js"></script>
+  <script src="https://code.highcharts.com/modules/series-label.js"></script>
+  <script src="https://code.highcharts.com/modules/exporting.js"></script>
+
+  <script type="text/javascript" charset="utf8" src="//cdn.datatables.net/1.10.16/js/jquery.dataTables.js"></script>
+  <script src="js/scripts.js"></script>
+</body>
+
+</html>

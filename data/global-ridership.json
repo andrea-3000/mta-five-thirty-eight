@@ -1,0 +1,42 @@
+﻿[
+ {
+   "Country": "Beijing",
+   "Ridership": 3.66
+ },
+ {
+   "Country": "Tokyo",
+   "Ridership": 3.411
+ },
+ {
+   "Country": "Shanghai",
+   "Ridership": 3.401
+ },
+ {
+   "Country": "Seoul",
+   "Ridership": 2.62
+ },
+ {
+   "Country": "Guangzhou",
+   "Ridership": 2.568
+ },
+ {
+   "Country": "Moscow",
+   "Ridership": 2.384
+ },
+ {
+   "Country": "New York City",
+   "Ridership": 1.757
+ },
+ {
+   "Country": "Hong Kong",
+   "Ridership": 1.716
+ },
+ {
+   "Country": "Mexico City",
+   "Ridership": 1.624
+ },
+ {
+   "Country": "Paris",
+   "Ridership": 1.526
+ }
+]
